@@ -22,3 +22,23 @@
 3. Se conoce y aplica el modelo de regresión Lasso.
 
 **Link(s) al trabajo:** [Platzi-ML-IMDB](https://github.com/dloperab/Platzi-ML-IMDB/commit/447865c94f9d02a5ff237c0fff0f6955df043e57)
+
+## Día 4: Sep 13/2018
+
+**Progreso:**
+
+1. Se termina capítulo de Feature Engineering de curso de [Machine Learning Aplicado con Python](https://platzi.com/clases/scikit/) de [Platzi](https://platzi.com).
+2. Se ven sesiones de [ML.NET](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet) de conferencia [Microsoft DotNetConf 2018](https://www.dotnetconf.net/).
+
+**Reflexiones:**
+
+1. Se aprenden técnicas de feature engineering sobre los datasets para: reducción, transformación, escalamiento y encoding binario.
+2. Veo a [ML.NET](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet) como un framework de desarrollo de ML que crece rápidamente y que en un futuro cercano puede ayudarme a desarrollar aplicaciones de negocio combinadas con ML. Me gusta la idea...tengo que empezar a probarlo.
+
+**Link(s) al trabajo:**
+
+1. [Platzi-ML-IMDB](https://github.com/dloperab/Platzi-ML-IMDB/commit/885bc04e011841fa8aa2bcbd80b384eddd17f655)
+
+2. [Machine Learning in .NET (ML.NET)](https://channel9.msdn.com/Events/dotnetConf/2018/S201)
+
+3. [Artificial Intelligence and Machine Learning for Every .NET Developer](https://channel9.msdn.com/Events/dotnetConf/2018/S202)

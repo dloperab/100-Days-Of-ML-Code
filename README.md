@@ -22,3 +22,23 @@
 3. The Lasso regression model is known and applied.
 
 **Link(s) to work:** [Platzi-ML-IMDB](https://github.com/dloperab/Platzi-ML-IMDB/commit/447865c94f9d02a5ff237c0fff0f6955df043e57)
+
+## Day 4: Sep 13/2018
+
+**Progress:**
+
+1. I finished Feature Engineering chapter from [Machine Learning Aplicado con Python](https://platzi.com/clases/scikit/) course by [Platzi](https://platzi.com).
+2. I watched [ML.NET](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet) sessions from [Microsoft DotNetConf 2018](https://www.dotnetconf.net/) conference.
+
+**Thoughts:**
+
+1. I learned feature engineering techniques to apply to datasets like: reduction, transformation, scaling and binary encoding..
+2. I can look to [ML.NET](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet)  like a development framework growing fast and in a midterm it can help me develop business apps combined with ML. I like this idea...I have to start trying it.
+
+**Link(s) to work:**
+
+1. [Platzi-ML-IMDB](https://github.com/dloperab/Platzi-ML-IMDB/commit/885bc04e011841fa8aa2bcbd80b384eddd17f655)
+
+2. [Machine Learning in .NET (ML.NET)](https://channel9.msdn.com/Events/dotnetConf/2018/S201)
+
+3. [Artificial Intelligence and Machine Learning for Every .NET Developer](https://channel9.msdn.com/Events/dotnetConf/2018/S202)
