@@ -2,7 +2,7 @@
 
 **"Reto de 100 Días de Código Machine Learning"** propuesto por [Siraj Raval](https://www.youtube.com/watch?v=cuQMBj1cWPo&vl=en)
 
-[README en Inglés](https://github.com/dloperab/100-Days-Of-ML-Code/README.md)
+[Inglés](https://github.com/dloperab/100-Days-Of-ML-Code/blob/master/README.md)
 
 ## Día 1, 2, 3: Sep 10, 11, 12/2018
 
@@ -38,7 +38,23 @@
 **Link(s) al trabajo:**
 
 1. [Platzi-ML-IMDB](https://github.com/dloperab/Platzi-ML-IMDB/commit/885bc04e011841fa8aa2bcbd80b384eddd17f655)
-
 2. [Machine Learning in .NET (ML.NET)](https://channel9.msdn.com/Events/dotnetConf/2018/S201)
-
 3. [Artificial Intelligence and Machine Learning for Every .NET Developer](https://channel9.msdn.com/Events/dotnetConf/2018/S202)
+
+## Día 5: Sep 14/2018
+
+**Progreso:**
+
+1. Se termina curso de [Machine Learning Aplicado con Python](https://platzi.com/clases/scikit/) de [Platzi](https://platzi.com).
+2. Se estudian nuevamente los conceptos básicos de ML mediante lectura de blogs.
+
+**Detalles:**
+
+1. Se estudian métodos de validación (Cross validation, validation curves y learning curves) y evaluación de modelos de árboles de decisión con Ensembles y Grid Search.
+2. Al estudiar nuevamente los conceptos básicos de ML como sus aplicaciones y algoritmos, siempre es bueno para ayudar a entender de mejor manera los diferentes conceptos en que se ha ido profundizando.
+
+**Link(s) al trabajo:**
+
+1. Commit: [Platzi-ML-IMDB](https://github.com/dloperab/Platzi-ML-IMDB/commit/4c15446aff36cec20fb6a9af0eaac727b9a1148c)
+2. Blog Aprende Machine Learning: <http://www.aprendemachinelearning.com>
+3. Blog Aprende sobre Machine Learning: <http://ligdigonzalez.com>
