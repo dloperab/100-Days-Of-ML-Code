@@ -58,3 +58,9 @@
 1. Commit: [Platzi-ML-IMDB](https://github.com/dloperab/Platzi-ML-IMDB/commit/4c15446aff36cec20fb6a9af0eaac727b9a1148c)
 2. Blog Aprende Machine Learning: <http://www.aprendemachinelearning.com>
 3. Blog Aprende sobre Machine Learning: <http://ligdigonzalez.com>
+
+## Día 6: Sep 15/2018
+
+**Progreso:**
+
+Asistí a un evento local en mi ciudad acerca de [Data Science & Artificial Neural Networks](https://www.meetup.com/Python-Cali/events/254454270/) realizado por [Python Cali](https://www.pythoncali.com/)
