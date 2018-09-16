@@ -64,3 +64,14 @@
 **Progreso:**
 
 Asistí a un evento local en mi ciudad acerca de [Data Science & Artificial Neural Networks](https://www.meetup.com/Python-Cali/events/254454270/) realizado por [Python Cali](https://www.pythoncali.com/)
+
+## Día 7: Sep 16/2018
+
+**Progreso:**
+
+1. Se realizan ejercicios para practicar algoritmos de ML: Se realizan ejercicios de Clasificación de flores Iris y Predecir la supervivencia en el Titanic usando modelos de Regresión Logística, KNN, SVM y Árboles de decisión.
+2. Se estudian los 2 primeros capítulos del [Curso de Redes Neuronales y Backpropagation](https://platzi.com/clases/redes-neuronales/) de [Platzi](https://platzi.com).
+
+**Link(s) al trabajo:**
+
+Commit: [Ejercicios de práctica ML](https://github.com/dloperab/ML-Exercises/commit/f741931dbb2a0b52d0410c326dcf8396d2625d3c).
