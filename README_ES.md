@@ -75,3 +75,9 @@ Asistí a un evento local en mi ciudad acerca de [Data Science & Artificial Neur
 **Link(s) al trabajo:**
 
 Commit: [Ejercicios de práctica ML](https://github.com/dloperab/ML-Exercises/commit/f741931dbb2a0b52d0410c326dcf8396d2625d3c).
+
+## Day 9: Sep 18/2018
+
+**Progress:**
+
+Trabajando en una presentación introductoria acerca de Machine Learning para compartir con un grupo de amigos.
