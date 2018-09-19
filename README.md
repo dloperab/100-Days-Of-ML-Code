@@ -72,7 +72,7 @@ I assisted to a local event in my city about [Data Science & Artificial Neural N
 1. I did exercises to practice ML algorithms: Exercises of Iris flowers classification and survival predictions on the Titanic are done using Regression Logistic, KNN, SVM and Decision trees models.
 2. The first 2 chapters of the [Curso de Redes Neuronales y Backpropagation](https://platzi.com/clases/redes-neuronales/) by [Platzi](https://platzi.com) are studied.
 
-**Link(s) al trabajo:**
+**Link(s) to work:**
 
 Commit: [ML practices](https://github.com/dloperab/ML-Exercises/commit/f741931dbb2a0b52d0410c326dcf8396d2625d3c).
 
@@ -81,3 +81,7 @@ Commit: [ML practices](https://github.com/dloperab/ML-Exercises/commit/f741931db
 **Progress:**
 
 Working on a introductory presentation about Machine Learning to share with a group of friends.
+
+**Link(s) to work:**
+
+Commit: [ML Intro](https://github.com/dloperab/ML-Slides/commit/271f222d08677a3698fe1267293bd89f07b89847)

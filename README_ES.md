@@ -81,3 +81,7 @@ Commit: [Ejercicios de práctica ML](https://github.com/dloperab/ML-Exercises/co
 **Progress:**
 
 Trabajando en una presentación introductoria acerca de Machine Learning para compartir con un grupo de amigos.
+
+**Link(s) al trabajo:**
+
+Commit: [ML Intro](https://github.com/dloperab/ML-Slides/commit/271f222d08677a3698fe1267293bd89f07b89847)
