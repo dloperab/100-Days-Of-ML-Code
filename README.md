@@ -85,3 +85,14 @@ Working on a introductory presentation about Machine Learning to share with a gr
 **Link(s) to work:**
 
 Commit: [ML Intro](https://github.com/dloperab/ML-Slides/commit/271f222d08677a3698fe1267293bd89f07b89847)
+
+## Day 10: Sep 19/2018
+
+**Progress:**
+
+1. Done introductory presentation about Machine Learning to share with a group of friends.
+2. I hosted a "mini meetup" with a group of friends to share my knowledge about ML.
+
+**Link(s) al trabajo:**
+
+Commit: [ML Intro](https://github.com/dloperab/ML-Slides/commit/801f11e07fa09014c36f94a13cdca7be7b911f8f)
