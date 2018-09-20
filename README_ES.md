@@ -76,7 +76,7 @@ Asistí a un evento local en mi ciudad acerca de [Data Science & Artificial Neur
 
 Commit: [Ejercicios de práctica ML](https://github.com/dloperab/ML-Exercises/commit/f741931dbb2a0b52d0410c326dcf8396d2625d3c).
 
-## Día 8-9: Sep 17, 18/2018
+## Día 8: Sep 18/2018
 
 **Progreso:**
 
@@ -86,7 +86,7 @@ Trabajando en una presentación introductoria acerca de Machine Learning para co
 
 Commit: [ML Intro](https://github.com/dloperab/ML-Slides/commit/271f222d08677a3698fe1267293bd89f07b89847)
 
-## Día 10: Sep 19/2018
+## Día 9: Sep 19/2018
 
 **Progreso:**
 
