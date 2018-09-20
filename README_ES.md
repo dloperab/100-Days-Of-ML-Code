@@ -96,3 +96,10 @@ Commit: [ML Intro](https://github.com/dloperab/ML-Slides/commit/271f222d08677a36
 **Link(s) al trabajo:**
 
 Commit: [ML Intro](https://github.com/dloperab/ML-Slides/commit/801f11e07fa09014c36f94a13cdca7be7b911f8f)
+
+## Día 10: Sep 20/2018
+
+**Progreso:**
+
+1. Se termina curso [Redes Neuronales y Backpropagation](https://platzi.com/clases/redes-neuronales/) de [Platzi](https://platzi.com).
+2. Se inicia curso [Move 37](https://www.theschool.ai/courses/move-37-course) de School of AI.
