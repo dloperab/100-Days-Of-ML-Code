@@ -104,14 +104,9 @@ Commit: [ML Intro](https://github.com/dloperab/ML-Slides/commit/801f11e07fa09014
 1. I finished [Redes Neuronales y Backpropagation](https://platzi.com/clases/redes-neuronales/) course by [Platzi](https://platzi.com).
 2. I started [Move 37](https://www.theschool.ai/courses/move-37-course) course by School of AI.
 
-## Day 11: Sep 21/2018
+## Day 11, 12: Sep 21, 24/2018
 
 **Progress:**
 
 1. I watched [Artificial Intelligence for the impatient developer](https://www.youtube.com/watch?v=zhzL_Di1rJo&index=3&list=PLPYX03kdPFRNI33NRKCXPca08OeI4Ebwm) video from .NET Conf CO v2017.
-
-## Day 12: Sep 24/2018
-
-**Progress:**
-
-1. Making progress with [Move 37](https://www.theschool.ai/courses/move-37-course) course by School of AI.
+2. Making progress with [Move 37](https://www.theschool.ai/courses/move-37-course) course by School of AI.

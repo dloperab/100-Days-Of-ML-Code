@@ -104,14 +104,9 @@ Commit: [ML Intro](https://github.com/dloperab/ML-Slides/commit/801f11e07fa09014
 1. Se termina curso [Redes Neuronales y Backpropagation](https://platzi.com/clases/redes-neuronales/) de [Platzi](https://platzi.com).
 2. Se inicia curso [Move 37](https://www.theschool.ai/courses/move-37-course) de School of AI.
 
-## Día 11: Sep 21/2018
+## Día 11: Sep 21, 24/2018
 
 **Progreso:**
 
 1. Se ve video [Artificial Intelligence for the impatient developer](https://www.youtube.com/watch?v=zhzL_Di1rJo&index=3&list=PLPYX03kdPFRNI33NRKCXPca08OeI4Ebwm) de .NET Conf CO v2017.
-
-## Día 12: Sep 24/2018
-
-**Progreso:**
-
-1. Se avanza en curso [Move 37](https://www.theschool.ai/courses/move-37-course) de School of AI.
+2. Se avanza en curso [Move 37](https://www.theschool.ai/courses/move-37-course) de School of AI.
