@@ -110,3 +110,13 @@ Commit: [ML Intro](https://github.com/dloperab/ML-Slides/commit/801f11e07fa09014
 
 1. I watched [Artificial Intelligence for the impatient developer](https://www.youtube.com/watch?v=zhzL_Di1rJo&index=3&list=PLPYX03kdPFRNI33NRKCXPca08OeI4Ebwm) video from .NET Conf CO v2017.
 2. Making progress with [Move 37](https://www.theschool.ai/courses/move-37-course) course by School of AI.
+
+## Day 13: Sep 25/2018
+
+**Progress:**
+
+Practice [OpenAI Gym](https://gym.openai.com/) with the environment **CartPole** to implement and learn the basic RL methods of Random Search and Hill-Climbing.
+
+**Link(s) to work:**
+
+Commit: [OpenAI Gym-CartPole](https://github.com/dloperab/Move37/commit/cea971434eafb9982d96eb5881f044c7da625309)
