@@ -122,3 +122,10 @@ Se practica de [OpenAI Gym](https://gym.openai.com/) con el ambiente **CartPole*
 **Link(s) al trabajo:**
 
 Commit: [OpenAI Gym-CartPole](https://github.com/dloperab/Move37/commit/cea971434eafb9982d96eb5881f044c7da625309)
+
+## Día 14: Sep 26/2018
+
+**Progreso:**
+
+1. Se ve video [Machine Learning 101](https://www.youtube.com/watch?v=xrWQt1mdLQY&index=5&list=PLPYX03kdPFRNI33NRKCXPca08OeI4Ebwm) de .NET Conf CO v2017.
+2. Se ve video [Google Dopamine](https://www.youtube.com/watch?v=FWFoyFjeAaM) del curso [Move 37](https://www.theschool.ai/courses/move-37-course) de School of AI.
