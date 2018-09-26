@@ -117,6 +117,8 @@ Commit: [ML Intro](https://github.com/dloperab/ML-Slides/commit/801f11e07fa09014
 
 Practice [OpenAI Gym](https://gym.openai.com/) with the environment **CartPole** to implement and learn the basic RL methods of Random Search and Hill-Climbing.
 
+**Source:** <http://kvfrans.com/simple-algoritms-for-solving-cartpole/>
+
 **Link(s) to work:**
 
 Commit: [OpenAI Gym-CartPole](https://github.com/dloperab/Move37/commit/cea971434eafb9982d96eb5881f044c7da625309)
