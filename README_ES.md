@@ -129,3 +129,10 @@ Commit: [OpenAI Gym-CartPole](https://github.com/dloperab/Move37/commit/cea97143
 
 1. Se ve video [Machine Learning 101](https://www.youtube.com/watch?v=xrWQt1mdLQY&index=5&list=PLPYX03kdPFRNI33NRKCXPca08OeI4Ebwm) de .NET Conf CO v2017.
 2. Se ve video [Google Dopamine](https://www.youtube.com/watch?v=FWFoyFjeAaM) del curso [Move 37](https://www.theschool.ai/courses/move-37-course) de School of AI.
+
+## Día 15: Sep 27/2018
+
+**Progress:**
+
+1. Se ve video [Welcome to the age of conversational interfaces](https://www.youtube.com/watch?v=sZGyKhu8XjE&index=8&list=PLPYX03kdPFRNI33NRKCXPca08OeI4Ebwm) de .NET Conf CO v2017.
+2. Se inicia curso [Introducción a Deep Learning](https://platzi.com/clases/ia) de Platzi.
