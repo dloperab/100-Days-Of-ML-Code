@@ -136,3 +136,14 @@ Commit: [OpenAI Gym-CartPole](https://github.com/dloperab/Move37/commit/cea97143
 
 1. I watched [Welcome to the age of conversational interfaces](https://www.youtube.com/watch?v=sZGyKhu8XjE&index=8&list=PLPYX03kdPFRNI33NRKCXPca08OeI4Ebwm) video from .NET Conf CO v2017.
 2. I started [Introducción a Deep Learning](https://platzi.com/clases/ia) course by Platzi.
+
+## Day 16: Oct 05/2018
+
+**Progress:**
+
+I watched the next videos about AI:
+
+1. [How Smart Agents will shape the future](https://www.youtube.com/watch?v=EtHLDjTW90E&index=15) from .NET Conf CO v2017.
+2. [Inteligencia artificial y SQL Server 2017](https://www.youtube.com/watch?v=6mk48j0BuAs&index=19) from .NET Conf CO v2017.
+3. [Servicios Cognitivos en la nube (visión, voz, traducción)](https://www.youtube.com/watch?v=JNAy0vRNZm0&index=23) from .NET Conf CO v2017.
+4. [Conversational UI for Bots](https://channel9.msdn.com/Shows/XamarinShow/Conversational-UI-for-Bots) from Xamarin Show.
