@@ -152,5 +152,5 @@ Se ven los siguientes videos acerca de IA:
 
 **Progreso:**
 
-1. Se ve video [Artificial Intelligence and Machine Learning for Every .NET Developer](https://channel9.msdn.com/Events/dotnetConf/2018/S202) de [.NET Conf 2018](https://channel9.msdn.com/Events/dotnetConf/2018).
+1. Se ve video [AI for Every Developer](https://channel9.msdn.com/Events/dotnetConf/2018/S301) de [.NET Conf 2018](https://channel9.msdn.com/Events/dotnetConf/2018).
 2. Se termina curso [Introducción a Deep Learning](https://platzi.com/clases/ia) de Platzi.

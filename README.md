@@ -152,5 +152,5 @@ I watched the next videos about AI:
 
 **Progress:**
 
-1. I watched [Artificial Intelligence and Machine Learning for Every .NET Developer](https://channel9.msdn.com/Events/dotnetConf/2018/S202) video from [.NET Conf 2018](https://channel9.msdn.com/Events/dotnetConf/2018).
+1. I watched [AI for Every Developer](https://channel9.msdn.com/Events/dotnetConf/2018/S301) video from [.NET Conf 2018](https://channel9.msdn.com/Events/dotnetConf/2018).
 2. I finished [Introducción a Deep Learning](https://platzi.com/clases/ia) course by [Platzi](https://platzi.com).
