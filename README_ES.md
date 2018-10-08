@@ -148,7 +148,7 @@ Se ven los siguientes videos acerca de IA:
 3. [Servicios Cognitivos en la nube (visión, voz, traducción)](https://www.youtube.com/watch?v=JNAy0vRNZm0&index=23) de .NET Conf CO v2017.
 4. [Conversational UI for Bots](https://channel9.msdn.com/Shows/XamarinShow/Conversational-UI-for-Bots) de Xamarin Show.
 
-## Día 17, 18: Oct 07, 08/2018
+## Día 17, 18: Oct 06, 07/2018
 
 **Progreso:**
 
