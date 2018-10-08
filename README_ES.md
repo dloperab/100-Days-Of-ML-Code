@@ -147,3 +147,10 @@ Se ven los siguientes videos acerca de IA:
 2. [Inteligencia artificial y SQL Server 2017](https://www.youtube.com/watch?v=6mk48j0BuAs&index=19) de .NET Conf CO v2017.
 3. [Servicios Cognitivos en la nube (visión, voz, traducción)](https://www.youtube.com/watch?v=JNAy0vRNZm0&index=23) de .NET Conf CO v2017.
 4. [Conversational UI for Bots](https://channel9.msdn.com/Shows/XamarinShow/Conversational-UI-for-Bots) de Xamarin Show.
+
+## Día 17, 18: Oct 07, 08/2018
+
+**Progreso:**
+
+1. Se ve video [Artificial Intelligence and Machine Learning for Every .NET Developer](https://channel9.msdn.com/Events/dotnetConf/2018/S202) de [.NET Conf 2018](https://channel9.msdn.com/Events/dotnetConf/2018).
+2. Se termina curso [Introducción a Deep Learning](https://platzi.com/clases/ia) de Platzi.

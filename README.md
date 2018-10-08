@@ -147,3 +147,10 @@ I watched the next videos about AI:
 2. [Inteligencia artificial y SQL Server 2017](https://www.youtube.com/watch?v=6mk48j0BuAs&index=19) from .NET Conf CO v2017.
 3. [Servicios Cognitivos en la nube (visión, voz, traducción)](https://www.youtube.com/watch?v=JNAy0vRNZm0&index=23) from .NET Conf CO v2017.
 4. [Conversational UI for Bots](https://channel9.msdn.com/Shows/XamarinShow/Conversational-UI-for-Bots) from Xamarin Show.
+
+## Day 17, 18: Oct 07, 08/2018
+
+**Progress:**
+
+1. I watched [Artificial Intelligence and Machine Learning for Every .NET Developer](https://channel9.msdn.com/Events/dotnetConf/2018/S202) video from [.NET Conf 2018](https://channel9.msdn.com/Events/dotnetConf/2018).
+2. I finished [Introducción a Deep Learning](https://platzi.com/clases/ia) course by [Platzi](https://platzi.com).
