@@ -154,3 +154,16 @@ Se ven los siguientes videos acerca de IA:
 
 1. Se ve video [AI for Every Developer](https://channel9.msdn.com/Events/dotnetConf/2018/S301) de [.NET Conf 2018](https://channel9.msdn.com/Events/dotnetConf/2018).
 2. Se termina curso [Introducción a Deep Learning](https://platzi.com/clases/ia) de Platzi.
+
+## Día 19: Oct 09/2018
+
+**Progreso:**
+
+1. Se realiza ejercicio para predecir los precios de las casas de Boston usando un modelo de Regresión Lineal.
+2. Se realiza presentación **ejecutiva** de introducción a ML.
+3. Se realiza hangout con un grupo de amigos para explicar ejercicios básicos de ML de Clasificación y Regresión.
+
+**Link(s) al trabajo:**
+
+1. Commit: [Ejercicio de práctica ML](https://github.com/dloperab/ML-Exercises/commit/bcb187550995e73f88817a2bcbf1e53782b45066).
+2. Commit: [Presentación](https://github.com/dloperab/ML-Slides/commit/ac5cd095bbd0a80ed0d6e85a7fbc3298ba47cc1d).

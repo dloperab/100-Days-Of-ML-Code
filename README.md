@@ -154,3 +154,16 @@ I watched the next videos about AI:
 
 1. I watched [AI for Every Developer](https://channel9.msdn.com/Events/dotnetConf/2018/S301) video from [.NET Conf 2018](https://channel9.msdn.com/Events/dotnetConf/2018).
 2. I finished [Introducción a Deep Learning](https://platzi.com/clases/ia) course by [Platzi](https://platzi.com).
+
+## Day 19: Oct 09/2018
+
+**Progress:**
+
+1. I did an exercise to predict the prices of Boston houses using Linear Regression model.
+2. I did an **executive** introductory presentation to ML.
+3. I hosted a hangout with a group of friends to explain basics ML exercises of Classification and Regression.
+
+**Link(s) to work:**
+
+1. Commit: [ML practices](https://github.com/dloperab/ML-Exercises/commit/bcb187550995e73f88817a2bcbf1e53782b45066).
+2. Commit: [Presentation](https://github.com/dloperab/ML-Slides/commit/ac5cd095bbd0a80ed0d6e85a7fbc3298ba47cc1d).
