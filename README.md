@@ -167,3 +167,13 @@ I watched the next videos about AI:
 
 1. Commit: [ML practices](https://github.com/dloperab/ML-Exercises/commit/bcb187550995e73f88817a2bcbf1e53782b45066).
 2. Commit: [Presentation](https://github.com/dloperab/ML-Slides/commit/ac5cd095bbd0a80ed0d6e85a7fbc3298ba47cc1d).
+
+## Day 20: Oct 10/2018
+
+**Progress:**
+
+ I've started Chapter 01 of [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition) book.
+
+**Link(s) to work:**
+
+Notebook: <https://github.com/dloperab/Packt-BuildingMLSystems/blob/master/Chapter01/chapter_01.ipynb>

@@ -167,3 +167,13 @@ Se ven los siguientes videos acerca de IA:
 
 1. Commit: [Ejercicio de práctica ML](https://github.com/dloperab/ML-Exercises/commit/bcb187550995e73f88817a2bcbf1e53782b45066).
 2. Commit: [Presentación](https://github.com/dloperab/ML-Slides/commit/ac5cd095bbd0a80ed0d6e85a7fbc3298ba47cc1d).
+
+## Día 20: Oct 10/2018
+
+**Progreso:**
+
+Se inicia lectura del Capítulo 01 del libro [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition).
+
+**Link(s) al trabajo:**
+
+Notebook: <https://github.com/dloperab/Packt-BuildingMLSystems/blob/master/Chapter01/chapter_01.ipynb>
