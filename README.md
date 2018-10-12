@@ -174,6 +174,10 @@ I watched the next videos about AI:
 
  I've started Chapter 01 of [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition) book.
 
-**Link(s) to work:**
+## Day 21: Oct 12/2018
 
-Notebook: <https://github.com/dloperab/Packt-BuildingMLSystems/blob/master/Chapter01/chapter_01.ipynb>
+**Progreso:**
+
+1. I watched [Getting Started with Visual Studio Tools for AI](https://channel9.msdn.com/Events/Build/2018/THR3129) video from [Microsoft Build 2018](https://channel9.msdn.com/Events/Build/2018).
+2. I watched [Cognitive Services in Xamarin Applications](https://channel9.msdn.com/Events/dotnetConf/2018/S311) video from [Microsoft Build 2018](https://channel9.msdn.com/Events/Build/2018).
+3. I've finished chapter 01 and started chapter 02 of [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition) book.
