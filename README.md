@@ -176,8 +176,15 @@ I watched the next videos about AI:
 
 ## Day 21: Oct 12/2018
 
-**Progreso:**
+**Progress:**
 
 1. I watched [Getting Started with Visual Studio Tools for AI](https://channel9.msdn.com/Events/Build/2018/THR3129) video from [Microsoft Build 2018](https://channel9.msdn.com/Events/Build/2018).
 2. I watched [Cognitive Services in Xamarin Applications](https://channel9.msdn.com/Events/dotnetConf/2018/S311) video from [Microsoft Build 2018](https://channel9.msdn.com/Events/Build/2018).
 3. I've finished chapter 01 and started chapter 02 of [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition) book.
+
+## Day 22: Oct 16/2018
+
+**Progress:**
+
+1. I watched [Demystifying Machine and Deep Learning for Developers](https://channel9.msdn.com/Events/Build/2018/BRK3215) video from [Microsoft Build 2018](https://channel9.msdn.com/Events/Build/2018).
+2. I've finished Chapter 02 of [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition) book.

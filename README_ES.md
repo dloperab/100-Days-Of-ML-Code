@@ -185,3 +185,10 @@ Notebook: <https://github.com/dloperab/Packt-BuildingMLSystems/blob/master/Chapt
 1. Se ve video [Getting Started with Visual Studio Tools for AI](https://channel9.msdn.com/Events/Build/2018/THR3129) de [Microsoft Build 2018](https://channel9.msdn.com/Events/Build/2018).
 2. Se ve video [Cognitive Services in Xamarin Applications](https://channel9.msdn.com/Events/dotnetConf/2018/S311) de [Microsoft Build 2018](https://channel9.msdn.com/Events/Build/2018).
 3. Se termina capítulo 01 e inicia capítulo 02 del libro [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition).
+
+## Día 22: Oct 16/2018
+
+**Progreso:**
+
+1. Se ve video [Demystifying Machine and Deep Learning for Developers](https://channel9.msdn.com/Events/Build/2018/BRK3215) de [Microsoft Build 2018](https://channel9.msdn.com/Events/Build/2018).
+2. Se termina Capítulo 02 del libro [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition).
