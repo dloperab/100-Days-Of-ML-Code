@@ -192,3 +192,17 @@ Notebook: <https://github.com/dloperab/Packt-BuildingMLSystems/blob/master/Chapt
 
 1. Se ve video [Demystifying Machine and Deep Learning for Developers](https://channel9.msdn.com/Events/Build/2018/BRK3215) de [Microsoft Build 2018](https://channel9.msdn.com/Events/Build/2018).
 2. Se termina Capítulo 02 del libro [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition).
+
+## Día 23: Oct 17/2018
+
+**Progreso:**
+
+1. Se termina capítulo 03 del libro [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition).
+2. Se leen varios artículos en [DZone AI Zone](https://dzone.com/artificial-intelligence-tutorials-tools-news).
+
+**Link(s) al trabajo:**
+
+* [11 Deep Learning With Python Libraries and Frameworks](https://dzone.com/articles/11-deep-learning-with-python-libraries-and-framewo).
+* [Top Machine Learning Algorithms You Should Know to Become a Data Scientist](https://dzone.com/articles/top-machine-learning-algorithm-you-should-know-to).
+* [How to Get Started With Conversational AI](https://dzone.com/articles/how-to-get-started-with-conversational-ai).
+* [Introduction to AI for Enterprises](https://dzone.com/articles/ai-techniques-in-enterprises).
