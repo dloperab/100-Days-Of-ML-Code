@@ -202,3 +202,20 @@ I watched the next videos about AI:
 * [Top Machine Learning Algorithms You Should Know to Become a Data Scientist](https://dzone.com/articles/top-machine-learning-algorithm-you-should-know-to).
 * [How to Get Started With Conversational AI](https://dzone.com/articles/how-to-get-started-with-conversational-ai).
 * [Introduction to AI for Enterprises](https://dzone.com/articles/ai-techniques-in-enterprises).
+
+## Day 24, 25: Oct 18, 23/2018
+
+**Progress:**
+
+1. I wrote a story on Medium about my personal motivation with AI (Spanish only).
+2. I read some articles about comparations between Fast.ai and Deeplearning.ai courses.
+
+**Link(s) to work:**
+
+* [Motivación personal para iniciar con Inteligencia Artificial](https://medium.com/@dloperab/motivaci%C3%B3n-personal-para-iniciar-con-inteligencia-artificial-2db1e6a7ec04).
+* [Launching fast.ai](http://www.fast.ai/2016/10/07/fastai-launch/).
+* [Meet These Incredible Women Advancing A.I. Research](https://www.forbes.com/sites/mariyayao/2017/05/18/meet-20-incredible-women-advancing-a-i-research/#60c433cc26f9).
+* [FAST.AI: UP TO SPEED WITH THE BEST OF DEEP LEARNING](https://www.zerotosingularity.com/blog/fast.ai-up-to-speed-with-the-best-of-deep-learning/).
+* [Fast.ai tips from a complete newbie](https://medium.com/@bellomatic/fast-ai-tips-from-a-complete-newbie-e631baf34c6f).
+* [Ten Techniques Learned From fast.ai](https://blog.floydhub.com/ten-techniques-from-fast-ai/).
+* [Learning Deep Learning — fast.ai vs. deeplearning.ai](https://medium.com/@markryan_69718/learning-deep-learning-fast-ai-vs-deeplearning-ai-34f9c42cf701).
