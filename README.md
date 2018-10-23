@@ -208,7 +208,7 @@ I watched the next videos about AI:
 **Progress:**
 
 1. I wrote a story on Medium about my personal motivation with AI (Spanish only).
-2. I read some articles about comparations between Fast.ai and Deeplearning.ai courses.
+2. I read some articles about comparisons between Fast.ai and Deeplearning.ai courses.
 
 **Link(s) to work:**
 
