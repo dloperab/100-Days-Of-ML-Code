@@ -223,3 +223,13 @@ Notebook: <https://github.com/dloperab/Packt-BuildingMLSystems/blob/master/Chapt
 * [Fast.ai tips from a complete newbie](https://medium.com/@bellomatic/fast-ai-tips-from-a-complete-newbie-e631baf34c6f).
 * [Ten Techniques Learned From fast.ai](https://blog.floydhub.com/ten-techniques-from-fast-ai/).
 * [Learning Deep Learning — fast.ai vs. deeplearning.ai](https://medium.com/@markryan_69718/learning-deep-learning-fast-ai-vs-deeplearning-ai-34f9c42cf701).
+
+## Día 26: Oct 25/2018
+
+**Progreso:**
+
+Se ven videos:
+
+1. [How to Learn Deep Learning (when you’re not a computer science PhD)](https://vimeo.com/214233053).
+2. [Road to Deep Learning](https://www.youtube.com/watch?v=PKeQclf7Icc&list=PLhiJRVuS9xnKPNRtnXHvcAuJkh9iAfJp1&index=1).
+3. [Road to Deep Learning II](https://www.youtube.com/watch?v=Zm3NFMi1DhI&list=PLhiJRVuS9xnKPNRtnXHvcAuJkh9iAfJp1&index=2).
