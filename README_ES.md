@@ -108,7 +108,7 @@ Commit: [ML Intro](https://github.com/dloperab/ML-Slides/commit/801f11e07fa09014
 
 **Progreso:**
 
-1. Se ve video [Artificial Intelligence for the impatient developer](https://www.youtube.com/watch?v=zhzL_Di1rJo&index=3&list=PLPYX03kdPFRNI33NRKCXPca08OeI4Ebwm) de .NET Conf CO v2017.
+1. Se ve video [Artificial Intelligence for the impatient developer](https://www.youtube.com/watch?v=zhzL_Di1rJo) de .NET Conf CO v2017.
 2. Se avanza en curso [Move 37](https://www.theschool.ai/courses/move-37-course) de School of AI.
 
 ## Día 13: Sep 25/2018
@@ -127,14 +127,14 @@ Commit: [OpenAI Gym-CartPole](https://github.com/dloperab/Move37/commit/cea97143
 
 **Progreso:**
 
-1. Se ve video [Machine Learning 101](https://www.youtube.com/watch?v=xrWQt1mdLQY&index=5&list=PLPYX03kdPFRNI33NRKCXPca08OeI4Ebwm) de .NET Conf CO v2017.
+1. Se ve video [Machine Learning 101](https://www.youtube.com/watch?v=xrWQt1mdLQY) de .NET Conf CO v2017.
 2. Se ve video [Google Dopamine](https://www.youtube.com/watch?v=FWFoyFjeAaM) del curso [Move 37](https://www.theschool.ai/courses/move-37-course) de School of AI.
 
 ## Día 15: Sep 27/2018
 
 **Progreso:**
 
-1. Se ve video [Welcome to the age of conversational interfaces](https://www.youtube.com/watch?v=sZGyKhu8XjE&index=8&list=PLPYX03kdPFRNI33NRKCXPca08OeI4Ebwm) de .NET Conf CO v2017.
+1. Se ve video [Welcome to the age of conversational interfaces](https://www.youtube.com/watch?v=sZGyKhu8XjE) de .NET Conf CO v2017.
 2. Se inicia curso [Introducción a Deep Learning](https://platzi.com/clases/ia) de Platzi.
 
 ## Día 16: Oct 05/2018
@@ -231,5 +231,15 @@ Notebook: <https://github.com/dloperab/Packt-BuildingMLSystems/blob/master/Chapt
 Se ven videos:
 
 1. [How to Learn Deep Learning (when you’re not a computer science PhD)](https://vimeo.com/214233053).
-2. [Road to Deep Learning](https://www.youtube.com/watch?v=PKeQclf7Icc&list=PLhiJRVuS9xnKPNRtnXHvcAuJkh9iAfJp1&index=1).
-3. [Road to Deep Learning II](https://www.youtube.com/watch?v=Zm3NFMi1DhI&list=PLhiJRVuS9xnKPNRtnXHvcAuJkh9iAfJp1&index=2).
+2. [Road to Deep Learning](https://www.youtube.com/watch?v=PKeQclf7Icc).
+3. [Road to Deep Learning II](https://www.youtube.com/watch?v=Zm3NFMi1DhI).
+
+## Día 27: Oct 26/2018
+
+**Progreso:**
+
+1. Video [Conceptos básicos de Machine Learning](https://www.youtube.com/watch?v=FU5dFMCN4wo).
+2. Video [Introducción a los entornos virtuales en Python](https://www.youtube.com/watch?v=DJfi11z6hTg).
+3. Video [Road to Deep Learning III Redes convolucionales](https://www.youtube.com/watch?v=HytbMipzY3o).
+4. Se repasan los Capítulos 1 y 2 del libro [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition).
+5. Video [Error cuadrático en regresión lineal](https://es.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/second-regression-example) de [Khan Academy](https://es.khanacademy.org).

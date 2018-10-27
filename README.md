@@ -108,7 +108,7 @@ Commit: [ML Intro](https://github.com/dloperab/ML-Slides/commit/801f11e07fa09014
 
 **Progress:**
 
-1. I watched [Artificial Intelligence for the impatient developer](https://www.youtube.com/watch?v=zhzL_Di1rJo&index=3&list=PLPYX03kdPFRNI33NRKCXPca08OeI4Ebwm) video from .NET Conf CO v2017.
+1. I watched [Artificial Intelligence for the impatient developer](https://www.youtube.com/watch?v=zhzL_Di1rJo) video from .NET Conf CO v2017.
 2. Making progress with [Move 37](https://www.theschool.ai/courses/move-37-course) course by School of AI.
 
 ## Day 13: Sep 25/2018
@@ -127,14 +127,14 @@ Commit: [OpenAI Gym-CartPole](https://github.com/dloperab/Move37/commit/cea97143
 
 **Progress:**
 
-1. I watched [Machine Learning 101](https://www.youtube.com/watch?v=xrWQt1mdLQY&index=5&list=PLPYX03kdPFRNI33NRKCXPca08OeI4Ebwm) video from .NET Conf CO v2017.
+1. I watched [Machine Learning 101](https://www.youtube.com/watch?v=xrWQt1mdLQY&index=5) video from .NET Conf CO v2017.
 2. I watched [Google Dopamine](https://www.youtube.com/watch?v=FWFoyFjeAaM) video from [Move 37](https://www.theschool.ai/courses/move-37-course) course by School of AI.
 
 ## Day 15: Sep 27/2018
 
 **Progress:**
 
-1. I watched [Welcome to the age of conversational interfaces](https://www.youtube.com/watch?v=sZGyKhu8XjE&index=8&list=PLPYX03kdPFRNI33NRKCXPca08OeI4Ebwm) video from .NET Conf CO v2017.
+1. I watched [Welcome to the age of conversational interfaces](https://www.youtube.com/watch?v=sZGyKhu8XjE) video from .NET Conf CO v2017.
 2. I started [Introducción a Deep Learning](https://platzi.com/clases/ia) course by Platzi.
 
 ## Day 16: Oct 05/2018
@@ -145,7 +145,7 @@ I watched the next videos about AI:
 
 1. [How Smart Agents will shape the future](https://www.youtube.com/watch?v=EtHLDjTW90E&index=15) from .NET Conf CO v2017.
 2. [Inteligencia artificial y SQL Server 2017](https://www.youtube.com/watch?v=6mk48j0BuAs&index=19) from .NET Conf CO v2017.
-3. [Servicios Cognitivos en la nube (visión, voz, traducción)](https://www.youtube.com/watch?v=JNAy0vRNZm0&index=23) from .NET Conf CO v2017.
+3. [Servicios Cognitivos en la nube (visión, voz, traducción)](https://www.youtube.com/watch?v=JNAy0vRNZm0) from .NET Conf CO v2017.
 4. [Conversational UI for Bots](https://channel9.msdn.com/Shows/XamarinShow/Conversational-UI-for-Bots) from Xamarin Show.
 
 ## Day 17, 18: Oct 07, 08/2018
@@ -227,5 +227,15 @@ I watched the next videos about AI:
 I watched the next videos about AI:
 
 1. [How to Learn Deep Learning (when you’re not a computer science PhD)](https://vimeo.com/214233053).
-2. [Road to Deep Learning](https://www.youtube.com/watch?v=PKeQclf7Icc&list=PLhiJRVuS9xnKPNRtnXHvcAuJkh9iAfJp1&index=1).
-3. [Road to Deep Learning II](https://www.youtube.com/watch?v=Zm3NFMi1DhI&list=PLhiJRVuS9xnKPNRtnXHvcAuJkh9iAfJp1&index=2).
+2. [Road to Deep Learning](https://www.youtube.com/watch?v=PKeQclf7Icc).
+3. [Road to Deep Learning II](https://www.youtube.com/watch?v=Zm3NFMi1DhI).
+
+## Day 27: Oct 26/2018
+
+**Progress:**
+
+1. Video [Conceptos básicos de Machine Learning](https://www.youtube.com/watch?v=FU5dFMCN4wo).
+2. Video [Introducción a los entornos virtuales en Python](https://www.youtube.com/watch?v=DJfi11z6hTg).
+3. Video [Road to Deep Learning III Redes convolucionales](https://www.youtube.com/watch?v=HytbMipzY3o).
+4. I've reviewd review 1 and 3 from [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition) book.
+5. Video [Error cuadrático en regresión lineal](https://es.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/second-regression-example) de [Khan Academy](https://es.khanacademy.org).
