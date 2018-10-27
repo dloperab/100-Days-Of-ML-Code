@@ -237,5 +237,16 @@ I watched the next videos about AI:
 1. Video [Conceptos básicos de Machine Learning](https://www.youtube.com/watch?v=FU5dFMCN4wo).
 2. Video [Introducción a los entornos virtuales en Python](https://www.youtube.com/watch?v=DJfi11z6hTg).
 3. Video [Road to Deep Learning III Redes convolucionales](https://www.youtube.com/watch?v=HytbMipzY3o).
-4. I've reviewd review 1 and 3 from [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition) book.
+4. I've review chapters 1 and 2 from [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition) book.
 5. Video [Error cuadrático en regresión lineal](https://es.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/second-regression-example) de [Khan Academy](https://es.khanacademy.org).
+
+## Day 28: Oct 27/2018
+
+**Progress:**
+
+1. I've review chapter 3 from [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition) book.
+2. I've review day 1 of [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) from [PyImageSearch](https://www.pyimagesearch.com).
+
+**Link(s) to work:**
+
+* [PyImageSearch-CrashCourse-Commit](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/commit/eea5fd60951e39e16e6b38cf7ac4895db04579d2).

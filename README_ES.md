@@ -243,3 +243,14 @@ Se ven videos:
 3. Video [Road to Deep Learning III Redes convolucionales](https://www.youtube.com/watch?v=HytbMipzY3o).
 4. Se repasan los Capítulos 1 y 2 del libro [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition).
 5. Video [Error cuadrático en regresión lineal](https://es.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data/more-on-regression/v/second-regression-example) de [Khan Academy](https://es.khanacademy.org).
+
+## Día 28: Oct 27/2018
+
+**Progreso:**
+
+1. Se repasa capítulo 3 del libro [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition).
+2. Se repasan el día 1 del [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) del sitio [PyImageSearch](https://www.pyimagesearch.com).
+
+**Link(s) al trabajo:**
+
+* [PyImageSearch-CrashCourse-Commit](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/commit/eea5fd60951e39e16e6b38cf7ac4895db04579d2).
