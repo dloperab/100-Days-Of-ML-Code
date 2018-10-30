@@ -249,8 +249,18 @@ Se ven videos:
 **Progreso:**
 
 1. Se repasa capítulo 3 del libro [Building Machine Learning Systems with Python](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition).
-2. Se repasan el día 1 del [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) del sitio [PyImageSearch](https://www.pyimagesearch.com).
+2. Se repasa el día 1 del [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) del sitio [PyImageSearch](https://www.pyimagesearch.com).
 
 **Link(s) al trabajo:**
 
 * [PyImageSearch-CrashCourse-Commit](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/commit/eea5fd60951e39e16e6b38cf7ac4895db04579d2).
+
+## Día 29: Oct 30/2018
+
+**Progreso:**
+
+Se repasa el día 2 del [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) del sitio [PyImageSearch](https://www.pyimagesearch.com).
+
+**Link(s) al trabajo:**
+
+* [PyImageSearch-CrashCourse-Day2](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/day-02-opencv-tutorial).

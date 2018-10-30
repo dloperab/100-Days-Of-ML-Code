@@ -250,3 +250,13 @@ I watched the next videos about AI:
 **Link(s) to work:**
 
 * [PyImageSearch-CrashCourse-Commit](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/commit/eea5fd60951e39e16e6b38cf7ac4895db04579d2).
+
+## Day 29: Oct 30/2018
+
+**Progress:**
+
+I've review day 2 of [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) from [PyImageSearch](https://www.pyimagesearch.com).
+
+**Link(s) to work:**
+
+* [PyImageSearch-CrashCourse-Day2](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/day-02-opencv-tutorial).
