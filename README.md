@@ -249,7 +249,7 @@ I watched the next videos about AI:
 
 **Link(s) to work:**
 
-* [PyImageSearch-CrashCourse-Commit](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/commit/eea5fd60951e39e16e6b38cf7ac4895db04579d2).
+* [PyImageSearch-CrashCourse-Day1](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/01-deep-learning-face-detection).
 
 ## Day 29: Oct 30/2018
 
@@ -259,4 +259,15 @@ I've review day 2 of [Crash Course](https://www.pyimagesearch.com/welcome-crash-
 
 **Link(s) to work:**
 
-* [PyImageSearch-CrashCourse-Day2](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/day-02-opencv-tutorial).
+* [PyImageSearch-CrashCourse-Day2](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/02-opencv-tutorial).
+
+## Day 30: Oct 31/2018
+
+**Progress:**
+
+Done: Day 3 and 4 of [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) from [PyImageSearch](https://www.pyimagesearch.com).
+
+**Link(s) to work:**
+
+* [PyImageSearch-CrashCourse-Day3](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/03-document-scanner).
+* [PyImageSearch-CrashCourse-Day4](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/04-omr-test-grader).

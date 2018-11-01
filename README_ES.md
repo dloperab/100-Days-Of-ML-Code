@@ -253,7 +253,7 @@ Se ven videos:
 
 **Link(s) al trabajo:**
 
-* [PyImageSearch-CrashCourse-Commit](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/commit/eea5fd60951e39e16e6b38cf7ac4895db04579d2).
+* [PyImageSearch-CrashCourse-Day1](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/01-deep-learning-face-detection).
 
 ## Día 29: Oct 30/2018
 
@@ -263,4 +263,15 @@ Se repasa el día 2 del [Crash Course](https://www.pyimagesearch.com/welcome-cra
 
 **Link(s) al trabajo:**
 
-* [PyImageSearch-CrashCourse-Day2](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/day-02-opencv-tutorial).
+* [PyImageSearch-CrashCourse-Day2](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/02-opencv-tutorial).
+
+## Día 30: Oct 31/2018
+
+**Progreso:**
+
+Se realiza el día 3 y 4 del [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) del sitio [PyImageSearch](https://www.pyimagesearch.com).
+
+**Link(s) al trabajo:**
+
+* [PyImageSearch-CrashCourse-Day3](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/03-document-scanner).
+* [PyImageSearch-CrashCourse-Day4](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/04-omr-test-grader).
