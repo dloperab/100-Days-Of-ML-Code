@@ -271,3 +271,10 @@ Done: Day 3 and 4 of [Crash Course](https://www.pyimagesearch.com/welcome-crash-
 
 * [PyImageSearch-CrashCourse-Day3](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/03-document-scanner).
 * [PyImageSearch-CrashCourse-Day4](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/04-omr-test-grader).
+
+## Day 31: Nov 01/2018
+
+**Progress:**
+
+* I've listened [Computer Vision Explained with PyImageSearch's Adrian Rosebrock](https://www.hanselminutes.com/456/computer-vision-explained-with-pyimagesearchs-adrian-rosebrock) podcast from Hanselminutes.
+* I've watched **Machine Learning en ArcGIS** webinar from [Esri Colombia](https://www.esri.co/).
