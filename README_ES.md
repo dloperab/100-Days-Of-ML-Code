@@ -282,3 +282,14 @@ Se realiza el día 3 y 4 del [Crash Course](https://www.pyimagesearch.com/welcom
 
 * Se escucha podcast [Computer Vision Explained with PyImageSearch's Adrian Rosebrock](https://www.hanselminutes.com/456/computer-vision-explained-with-pyimagesearchs-adrian-rosebrock) de Hanselminutes.
 * Se ve webinar **Machine Learning en ArcGIS** de [Esri Colombia](https://www.esri.co/).
+
+## Día 32: Nov 02/2018
+
+**Progreso:**
+
+* Se implementan técnicas como Cross validation, Accuracy score, Confusion matrix, Classification report usando el modelo RandomForestClassifier para los ejercicios de Iris y Titanic.
+* Se implementan técnicas como Root Mean Square Error (RMSE), Coefficient of determination (r2_score), penalidades L1 and L2 usando el modelo ElasticNet para el ejercicio de Precios de casas de Boston.
+
+**Link(s) al trabajo:**
+
+* [ML-Exercises Repo](https://github.com/dloperab/ML-Exercises).

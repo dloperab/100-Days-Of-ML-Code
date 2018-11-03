@@ -278,3 +278,14 @@ Done: Day 3 and 4 of [Crash Course](https://www.pyimagesearch.com/welcome-crash-
 
 * I've listened [Computer Vision Explained with PyImageSearch's Adrian Rosebrock](https://www.hanselminutes.com/456/computer-vision-explained-with-pyimagesearchs-adrian-rosebrock) podcast from Hanselminutes.
 * I've watched **Machine Learning en ArcGIS** webinar from [Esri Colombia](https://www.esri.co/).
+
+## Day 32: Nov 02/2018
+
+**Progress:**
+
+* Techniques like Cross validation, Accuracy score, Confusion matrix and Classification report are applied using a RandomForestClassifier model for Iris y Titanic exercises.
+* Techniques like Root Mean Square Error (RMSE), Coefficient of determination (r2_score), L1 and L2 penalities are applied using a ElasticNet model for Boston houses exercise.
+
+**Link(s) to work:**
+
+* [ML-Exercises Repo](https://github.com/dloperab/ML-Exercises).
