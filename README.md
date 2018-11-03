@@ -284,7 +284,7 @@ Done: Day 3 and 4 of [Crash Course](https://www.pyimagesearch.com/welcome-crash-
 **Progress:**
 
 * Techniques like Cross validation, Accuracy score, Confusion matrix and Classification report are applied using a RandomForestClassifier model for Iris y Titanic exercises.
-* Techniques like Root Mean Square Error (RMSE), Coefficient of determination (r2_score), L1 and L2 penalities are applied using a ElasticNet model for Boston houses exercise.
+* Techniques like Root Mean Square Error (RMSE), Coefficient of determination (r2_score), L1 and L2 penalties are applied using a ElasticNet model for Boston houses exercise.
 
 **Link(s) to work:**
 
