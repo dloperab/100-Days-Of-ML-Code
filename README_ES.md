@@ -293,3 +293,20 @@ Se realiza el día 3 y 4 del [Crash Course](https://www.pyimagesearch.com/welcom
 **Link(s) al trabajo:**
 
 * [ML-Exercises Repo](https://github.com/dloperab/ML-Exercises).
+
+## Día 33, 34, 35: Nov 12, 13, 14/2018
+
+**Progreso:**
+
+* Se ve el documental [AlphaGo](https://www.imdb.com/title/tt6700846/) en Netflix.
+* Se ven los siguientes videos:
+  * [Qué necesitas para hacer Inteligencia Artificial](https://www.youtube.com/watch?v=YfRy9j1E0Qk) de AMP Tech.
+  * [Drone Flight Controller](https://www.youtube.com/watch?v=PngA5YLFuvU) de Siraj Raval.
+  * [7 Ways to Make Money with Machine Learning](https://www.youtube.com/watch?v=mrRfpiAwad0) de Siraj Raval.
+* Se asiste el evento virtual de Google [Let's Talk AI](https://cloudonair.withgoogle.com/events/data-ai).
+* Se realiza el día 5 y 6 del [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) del sitio [PyImageSearch](https://www.pyimagesearch.com).
+
+**Link(s) al trabajo:**
+
+* [PyImageSearch-CrashCourse-Day5](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/05-ball-tracking).
+* [PyImageSearch-CrashCourse-Day6](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/06-size-of-objects).

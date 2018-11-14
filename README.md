@@ -289,3 +289,20 @@ Done: Day 3 and 4 of [Crash Course](https://www.pyimagesearch.com/welcome-crash-
 **Link(s) to work:**
 
 * [ML-Exercises Repo](https://github.com/dloperab/ML-Exercises).
+
+## Day 33, 34, 35: Nov 12, 13, 14/2018
+
+**Progress:**
+
+* I've watched Netflix documentary AlphaGo.
+* I've watched the next videos:
+  * [Qué necesitas para hacer Inteligencia Artificial](https://www.youtube.com/watch?v=YfRy9j1E0Qk) de AMP Tech.
+  * [Drone Flight Controller](https://www.youtube.com/watch?v=PngA5YLFuvU) de Siraj Raval.
+  * [7 Ways to Make Money with Machine Learning](https://www.youtube.com/watch?v=mrRfpiAwad0) de Siraj Raval.
+* I've assisted to the virtual Google's event [Let's Talk AI](https://cloudonair.withgoogle.com/events/data-ai).
+* Done: Day 5 and 6 of [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) from [PyImageSearch](https://www.pyimagesearch.com).
+
+**Link(s) to work:**
+
+* [PyImageSearch-CrashCourse-Day5](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/05-ball-tracking).
+* [PyImageSearch-CrashCourse-Day6](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/06-size-of-objects).
