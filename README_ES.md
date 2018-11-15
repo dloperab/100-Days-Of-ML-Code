@@ -310,3 +310,13 @@ Se realiza el día 3 y 4 del [Crash Course](https://www.pyimagesearch.com/welcom
 
 * [PyImageSearch-CrashCourse-Day5](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/05-ball-tracking).
 * [PyImageSearch-CrashCourse-Day6](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/06-size-of-objects).
+
+## Día 36: Nov 15/2018
+
+**Progreso:**
+
+Se realiza el día 7 y 8 del [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) del sitio [PyImageSearch](https://www.pyimagesearch.com).
+
+**Link(s) al trabajo:**
+
+* [PyImageSearch-CrashCourse-Day8](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/08-facial_landmarks).
