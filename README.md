@@ -296,9 +296,9 @@ Done: Day 3 and 4 of [Crash Course](https://www.pyimagesearch.com/welcome-crash-
 
 * I've watched Netflix documentary AlphaGo.
 * I've watched the next videos:
-  * [Qué necesitas para hacer Inteligencia Artificial](https://www.youtube.com/watch?v=YfRy9j1E0Qk) de AMP Tech.
-  * [Drone Flight Controller](https://www.youtube.com/watch?v=PngA5YLFuvU) de Siraj Raval.
-  * [7 Ways to Make Money with Machine Learning](https://www.youtube.com/watch?v=mrRfpiAwad0) de Siraj Raval.
+  * [Qué necesitas para hacer Inteligencia Artificial](https://www.youtube.com/watch?v=YfRy9j1E0Qk) from AMP Tech.
+  * [Drone Flight Controller](https://www.youtube.com/watch?v=PngA5YLFuvU) from Siraj Raval.
+  * [7 Ways to Make Money with Machine Learning](https://www.youtube.com/watch?v=mrRfpiAwad0) from Siraj Raval.
 * I've assisted to the Google's virtual event [Let's Talk AI](https://cloudonair.withgoogle.com/events/data-ai).
 * Done: Day 5 and 6 of [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) from [PyImageSearch](https://www.pyimagesearch.com).
 
@@ -316,3 +316,14 @@ Done: Day 7 and 8 of [Crash Course](https://www.pyimagesearch.com/welcome-crash-
 **Link(s) to work:**
 
 * [PyImageSearch-CrashCourse-Day8](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/08-facial_landmarks).
+
+## Day 37: Nov 17/2018
+
+**Progress:**
+
+I've watched the next videos:
+
+* [Time Series Prediction](https://www.youtube.com/watch?v=d4Sn6ny_5LI) from Siraj Raval.
+* [Train Machine Learning Models with Azure ML in VS Code](https://channel9.msdn.com/Shows/AI-Show/VS-Code-Tools-for-AI-Train-ML-Models-With-Azure-Machine-Learning) from AI Show-Channel 9.
+* [Taking a Look at Computer Vision’s Object Detection](https://channel9.msdn.com/Shows/AI-Show/Taking-a-Look-at-Computer-Visions-Object-Detection) from AI Show-Channel 9.
+* [Build a Bot in Minutes with QnA Maker](https://channel9.msdn.com/Shows/AI-Show/Build-a-Bot-in-Minutes-with-QnA-MakerV) from AI Show-Channel 9.

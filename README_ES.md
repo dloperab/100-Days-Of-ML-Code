@@ -320,3 +320,14 @@ Se realiza el día 7 y 8 del [Crash Course](https://www.pyimagesearch.com/welcom
 **Link(s) al trabajo:**
 
 * [PyImageSearch-CrashCourse-Day8](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/08-facial_landmarks).
+
+## Día 37: Nov 17/2018
+
+**Progreso:**
+
+Se ven los siguientes videos:
+
+* [Time Series Prediction](https://www.youtube.com/watch?v=d4Sn6ny_5LI) de Siraj Raval.
+* [Train Machine Learning Models with Azure ML in VS Code](https://channel9.msdn.com/Shows/AI-Show/VS-Code-Tools-for-AI-Train-ML-Models-With-Azure-Machine-Learning) de AI Show-Channel 9.
+* [Taking a Look at Computer Vision’s Object Detection](https://channel9.msdn.com/Shows/AI-Show/Taking-a-Look-at-Computer-Visions-Object-Detection) de AI Show-Channel 9.
+* [Build a Bot in Minutes with QnA Maker](https://channel9.msdn.com/Shows/AI-Show/Build-a-Bot-in-Minutes-with-QnA-MakerV) de AI Show-Channel 9.
