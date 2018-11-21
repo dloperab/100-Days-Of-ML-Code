@@ -331,3 +331,15 @@ Se ven los siguientes videos:
 * [Train Machine Learning Models with Azure ML in VS Code](https://channel9.msdn.com/Shows/AI-Show/VS-Code-Tools-for-AI-Train-ML-Models-With-Azure-Machine-Learning) de AI Show-Channel 9.
 * [Taking a Look at Computer Vision’s Object Detection](https://channel9.msdn.com/Shows/AI-Show/Taking-a-Look-at-Computer-Visions-Object-Detection) de AI Show-Channel 9.
 * [Build a Bot in Minutes with QnA Maker](https://channel9.msdn.com/Shows/AI-Show/Build-a-Bot-in-Minutes-with-QnA-MakerV) de AI Show-Channel 9.
+
+## Día 38: Nov 21/2018
+
+**Progreso:**
+
+* Se ve el video [What's new with Speech Services](https://channel9.msdn.com/Shows/AI-Show/Whats-new-with-Speech-Services-This-Week-in-Cognitive) de AI Show-Channel 9.
+* Se realizan días 9 y 10 del [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) del sitio [PyImageSearch](https://www.pyimagesearch.com).
+
+**Link(s) al trabajo:**
+
+* [PyImageSearch-CrashCourse-Day9](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/09-blink-detection).
+* [PyImageSearch-CrashCourse-Day10](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/10-detect_drowsiness).
