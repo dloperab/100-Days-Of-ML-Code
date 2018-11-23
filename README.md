@@ -339,3 +339,20 @@ I've watched the next videos:
 
 * [PyImageSearch-CrashCourse-Day9](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/09-blink-detection).
 * [PyImageSearch-CrashCourse-Day10](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/10-detect_drowsiness).
+
+## Day 39, 40: Nov 22, 23/2018
+
+**Progress:**
+
+* Presentations about classification in Machine Learning are adjusted.
+* I've watched the following videos from AI Show-Channel 9:
+  * [Using Cognitive Search to Understand the JFK Documents](https://channel9.msdn.com/Shows/AI-Show/Using-Cognitive-Search-to-Understand-the-JFK-Documents).
+  * [Building an Intelligent Bot: Conference Buddy](https://channel9.msdn.com/Shows/AI-Show/Building-an-Intelligent-Bot-Conference-Buddy).
+* Done: Day 11, 12 and 13 of [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) from [PyImageSearch](https://www.pyimagesearch.com).
+
+**Link(s) to work:**
+
+* [PPT-Clasificación I](https://github.com/dloperab/ML-Slides/blob/master/ML/03_ML_Clasificaci%C3%B3n_I_13112018.pdf).
+* [PPT-Clasificación II](https://github.com/dloperab/ML-Slides/blob/master/ML/04_ML_Clasificaci%C3%B3n_II_22112018.pdf).
+* [PyImageSearch-CrashCourse-Day12](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/12-simple-neural-network).
+* [PyImageSearch-CrashCourse-Day13](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/13-deep-learning-opencv).
