@@ -361,7 +361,7 @@ I've watched the next videos:
 
 **Progress:**
 
-* Done: Day 15 and 15 of [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) from [PyImageSearch](https://www.pyimagesearch.com).
+* Done: Day 14 and 15 of [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) from [PyImageSearch](https://www.pyimagesearch.com).
 
 **Link(s) to work:**
 
