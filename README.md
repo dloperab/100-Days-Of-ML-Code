@@ -356,3 +356,14 @@ I've watched the next videos:
 * [PPT-Clasificación II](https://github.com/dloperab/ML-Slides/blob/master/ML/04_ML_Clasificaci%C3%B3n_II_22112018.pdf).
 * [PyImageSearch-CrashCourse-Day12](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/12-simple-neural-network).
 * [PyImageSearch-CrashCourse-Day13](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/13-deep-learning-opencv).
+
+## Day 41, 42: Nov 26, 27/2018
+
+**Progress:**
+
+* Done: Day 15 and 15 of [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) from [PyImageSearch](https://www.pyimagesearch.com).
+
+**Link(s) to work:**
+
+* [PyImageSearch-CrashCourse-Day14](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/14-search_bing_api).
+* [PyImageSearch-CrashCourse-Day15](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/15-cnn-keras).

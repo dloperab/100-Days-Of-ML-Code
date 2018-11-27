@@ -360,3 +360,14 @@ Se ven los siguientes videos:
 * [PPT-Clasificación II](https://github.com/dloperab/ML-Slides/blob/master/ML/04_ML_Clasificaci%C3%B3n_II_22112018.pdf).
 * [PyImageSearch-CrashCourse-Day12](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/12-simple-neural-network).
 * [PyImageSearch-CrashCourse-Day13](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/13-deep-learning-opencv).
+
+## Día 41, 42: Nov 26, 27/2018
+
+**Progreso:**
+
+* Se realizan los días 14 y 15 del [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) de [PyImageSearch](https://www.pyimagesearch.com).
+
+**Link(s) al trabajo:**
+
+* [PyImageSearch-CrashCourse-Day14](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/14-search_bing_api).
+* [PyImageSearch-CrashCourse-Day15](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/15-cnn-keras).
