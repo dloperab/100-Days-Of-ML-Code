@@ -371,3 +371,13 @@ Se ven los siguientes videos:
 
 * [PyImageSearch-CrashCourse-Day14](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/14-search_bing_api).
 * [PyImageSearch-CrashCourse-Day15](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/15-cnn-keras).
+
+## Día 43: Nov 28/2018
+
+**Progreso:**
+
+* Se termina el [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) de [PyImageSearch](https://www.pyimagesearch.com).
+
+**Link(s) al trabajo:**
+
+* [PyImageSearch-CrashCourse-Day16](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/16-real-time-object-detection).

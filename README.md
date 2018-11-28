@@ -367,3 +367,13 @@ I've watched the next videos:
 
 * [PyImageSearch-CrashCourse-Day14](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/14-search_bing_api).
 * [PyImageSearch-CrashCourse-Day15](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/15-cnn-keras).
+
+## Day 43: Nov 28/2018
+
+**Progress:**
+
+* [Crash Course](https://www.pyimagesearch.com/welcome-crash-course/) from [PyImageSearch](https://www.pyimagesearch.com) DONE.
+
+**Link(s) to work:**
+
+* [PyImageSearch-CrashCourse-Day16](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/16-real-time-object-detection).
