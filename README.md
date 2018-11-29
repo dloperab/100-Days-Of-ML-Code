@@ -377,3 +377,13 @@ I've watched the next videos:
 **Link(s) to work:**
 
 * [PyImageSearch-CrashCourse-Day16](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/16-real-time-object-detection).
+
+## Day 44: Nov 29/2018
+
+**Progress:**
+
+* Done: **Lab 1 - Introduction to Custom Vision Service** of [Learning Path: Custom Vision Service](https://aischool.microsoft.com/en-us/services/learning-paths/custom-vision-service) from [Microsoft AI School](https://aischool.microsoft.com/en-us/home) program.
+
+**Link(s) to work:**
+
+* [Custom Vision Service-Lab 1-Introduction to Custom Vision Service](https://github.com/dloperab/AI-School/tree/master/AI%20Services/1-Intro%20Custom%20Vision%20Service).

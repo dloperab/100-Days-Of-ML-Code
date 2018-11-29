@@ -381,3 +381,13 @@ Se ven los siguientes videos:
 **Link(s) al trabajo:**
 
 * [PyImageSearch-CrashCourse-Day16](https://github.com/dloperab/PyImageSearch-CV-DL-CrashCourse/tree/master/16-real-time-object-detection).
+
+## Día 44: Nov 29/2018
+
+**Progreso:**
+
+* Se realiza el **Lab 1 - Introduction to Custom Vision Service** del [Learning Path: Custom Vision Service](https://aischool.microsoft.com/en-us/services/learning-paths/custom-vision-service) del programa de [Microsoft AI School](https://aischool.microsoft.com/en-us/home).
+
+**Link(s) al trabajo:**
+
+* [Custom Vision Service-Lab 1-Introduction to Custom Vision Service](https://github.com/dloperab/AI-School/tree/master/AI%20Services/1-Intro%20Custom%20Vision%20Service).
