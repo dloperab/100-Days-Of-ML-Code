@@ -382,8 +382,15 @@ I've watched the next videos:
 
 **Progress:**
 
-* Done: **Lab 1 - Introduction to Custom Vision Service** of [Learning Path: Custom Vision Service](https://aischool.microsoft.com/en-us/services/learning-paths/custom-vision-service) from [Microsoft AI School](https://aischool.microsoft.com/en-us/home) program.
+* Done: **Lab - Introduction to Custom Vision Service** of [Learning Path: Custom Vision Service](https://aischool.microsoft.com/en-us/services/learning-paths/custom-vision-service) from [Microsoft AI School](https://aischool.microsoft.com/en-us/home) program.
 
 **Link(s) to work:**
 
-* [Custom Vision Service-Lab 1-Introduction to Custom Vision Service](https://github.com/dloperab/AI-School/tree/master/AI%20Services/1-Intro%20Custom%20Vision%20Service).
+* [Custom Vision Service-Lab-Introduction to Custom Vision Service](https://github.com/dloperab/AI-School/tree/master/AI%20Services/Custom%20Vision%20Service/1-Intro%20Custom%20Vision%20Service).
+
+## Day 45: Nov 30/2018
+
+**Progress:**
+
+* [Microsoft AI School Program - Learning Path: Custom Vision Service](https://aischool.microsoft.com/en-us/services/learning-paths/custom-vision-service): Lab Exporting a Custom Vision model and deploy it to an Android device: In progress.
+* [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 1: Done and Chapter 2: In progress.
