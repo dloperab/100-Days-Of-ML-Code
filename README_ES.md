@@ -390,7 +390,7 @@ Se ven los siguientes videos:
 
 **Link(s) al trabajo:**
 
-* [Custom Vision Service-Lab-Introduction to Custom Vision Service](https://github.com/dloperab/AI-School/tree/master/AI%20Services/Custom%20Vision%20Service/1-Intro%20Custom%20Vision%20Service).
+* [Custom Vision Service-Lab-Introduction to Custom Vision Service](https://github.com/dloperab/AI-School/tree/master/AI-Services/CustomVisionService/1-IntroCustomVisionService).
 
 ## Día 45: Nov 30/2018
 
@@ -398,3 +398,20 @@ Se ven los siguientes videos:
 
 * [Microsoft AI School Program - Learning Path: Custom Vision Service](https://aischool.microsoft.com/en-us/services/learning-paths/custom-vision-service): Lab Exporting a Custom Vision model and deploy it to an Android device: En progreso.
 * [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 1: Terminado y Capítulo 2: En progreso.
+
+## Día 46: Dic 01/2018
+
+**Progreso:**
+
+* Se leen siguientes artículos:
+  * [Build Your Customized Vision App in 10 Minutes](https://medium.com/deep-learning-turkey/build-your-customized-vision-app-in-10-minutes-eb0b141c3742).
+  * [Building a Classification Model for Android, iOS and Windows ML using CustomVision.ai](https://medium.com/@nzigel/building-a-classification-model-for-android-ios-and-windows-ml-using-customvision-ai-5fa70d5b2303).
+  * [Using TensorFlow and Azure to Add Image Classification to Your Android Apps](https://blog.xamarin.com/android-apps-tensorflow/).
+* Se ven los siguientes videos:
+  * [Easier AI allows everyone to build smart apps - David Burela & Azadeh Khojandi](https://www.youtube.com/watch?time_continue=2445&v=MxnGYtFVEzM).
+  * [Custom Vision – Machine Learning Made Easy with Jim Bennett](https://channel9.msdn.com/Shows/XamarinShow/Custom-Vision--Machine-Learning-Made-Easy-with-Jim-Bennett).
+* [Microsoft AI School Program - Learning Path: Custom Vision Service](https://aischool.microsoft.com/en-us/services/learning-paths/custom-vision-service): Lab Exporting a Custom Vision model and deploy it to an Android device: Terminado.
+
+**Link(s) al trabajo:**
+
+* [Custom Vision Service- Lab Exporting a Custom Vision model and deploy it to an Android device](https://github.com/dloperab/AI-School/tree/master/AI-Services/CustomVisionService/2-AndroidCustomVision).
