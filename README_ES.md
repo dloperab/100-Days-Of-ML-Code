@@ -415,3 +415,12 @@ Se ven los siguientes videos:
 **Link(s) al trabajo:**
 
 * [Custom Vision Service- Lab Exporting a Custom Vision model and deploy it to an Android device](https://github.com/dloperab/AI-School/tree/master/AI-Services/CustomVisionService/2-AndroidCustomVision).
+
+## Día 47: Dic 02/2018
+
+**Progreso:**
+
+* Se leen siguientes artículos:
+  * [What is Deep Learning?](https://machinelearningmastery.com/what-is-deep-learning/).
+  * [A Gentle Introduction to Transfer Learning for Deep Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/).
+* [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 2: Terminado.

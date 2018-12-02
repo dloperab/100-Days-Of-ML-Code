@@ -411,3 +411,12 @@ I've watched the next videos:
 **Link(s) to work:**
 
 * [Custom Vision Service- Lab Exporting a Custom Vision model and deploy it to an Android device](https://github.com/dloperab/AI-School/tree/master/AI-Services/CustomVisionService/2-AndroidCustomVision).
+
+## Day 47: Dec 02/2018
+
+**Progress:**
+
+* I've read the following articles:
+  * [What is Deep Learning?](https://machinelearningmastery.com/what-is-deep-learning/).
+  * [A Gentle Introduction to Transfer Learning for Deep Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/).
+* [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 2: Done.
