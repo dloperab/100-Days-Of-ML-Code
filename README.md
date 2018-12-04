@@ -386,7 +386,7 @@ I've watched the next videos:
 
 **Link(s) to work:**
 
-* [Custom Vision Service-Lab-Introduction to Custom Vision Service](https://github.com/dloperab/AI-School/tree/master/AI-Services/CustomVisionService/1-IntroCustomVisionService).
+* [Custom Vision Service-Lab Introduction to Custom Vision Service](https://github.com/dloperab/AI-School/tree/master/AI-Services/CustomVisionService/1-IntroCustomVisionService).
 
 ## Day 45: Nov 30/2018
 
@@ -410,7 +410,7 @@ I've watched the next videos:
 
 **Link(s) to work:**
 
-* [Custom Vision Service- Lab Exporting a Custom Vision model and deploy it to an Android device](https://github.com/dloperab/AI-School/tree/master/AI-Services/CustomVisionService/2-AndroidCustomVision).
+* [Custom Vision Service-Lab Exporting a Custom Vision model and deploy it to an Android device](https://github.com/dloperab/AI-School/tree/master/AI-Services/CustomVisionService/2-AndroidCustomVision).
 
 ## Day 47: Dec 02/2018
 
@@ -426,3 +426,13 @@ I've watched the next videos:
 **Progress:**
 
 [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 3: Done.
+
+## Day 49: Dec 04/2018
+
+**Progress:**
+
+[Microsoft AI School Program - Learning Path: Custom Vision Service](https://aischool.microsoft.com/en-us/services/learning-paths/custom-vision-service): Lab Exporting a Custom Vision model and deploying on iOS: Done.
+
+**Link(s) to work:**
+
+* [Custom Vision Service-Lab Exporting a Custom Vision model and deploying on iOS](https://github.com/dloperab/AI-School/tree/master/AI-Services/CustomVisionService/3-iOSCustomVision).
