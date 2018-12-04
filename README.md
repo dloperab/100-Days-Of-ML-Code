@@ -420,3 +420,9 @@ I've watched the next videos:
   * [What is Deep Learning?](https://machinelearningmastery.com/what-is-deep-learning/).
   * [A Gentle Introduction to Transfer Learning for Deep Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/).
 * [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 2: Done.
+
+## Day 48: Dec 03/2018
+
+**Progress:**
+
+[PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 3: Done.

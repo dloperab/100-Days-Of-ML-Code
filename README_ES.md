@@ -424,3 +424,9 @@ Se ven los siguientes videos:
   * [What is Deep Learning?](https://machinelearningmastery.com/what-is-deep-learning/).
   * [A Gentle Introduction to Transfer Learning for Deep Learning](https://machinelearningmastery.com/transfer-learning-for-deep-learning/).
 * [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 2: Terminado.
+
+## Día 48: Dic 03/2018
+
+**Progreso:**
+
+[Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 3: Terminado.
