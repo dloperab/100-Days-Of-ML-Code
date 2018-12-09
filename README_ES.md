@@ -440,3 +440,9 @@ Se ven los siguientes videos:
 **Link(s) al trabajo:**
 
 * [Custom Vision Service-Lab Exporting a Custom Vision model and deploying on iOS](https://github.com/dloperab/AI-School/tree/master/AI-Services/CustomVisionService/3-iOSCustomVision).
+
+## Día 50: Dic 09/2018
+
+**Progreso:**
+
+[Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 4: Terminado.

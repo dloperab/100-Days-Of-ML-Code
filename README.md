@@ -436,3 +436,9 @@ I've watched the next videos:
 **Link(s) to work:**
 
 * [Custom Vision Service-Lab Exporting a Custom Vision model and deploying on iOS](https://github.com/dloperab/AI-School/tree/master/AI-Services/CustomVisionService/3-iOSCustomVision).
+
+## Day 50: Dec 09/2018
+
+**Progress:**
+
+[PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 4: Done.
