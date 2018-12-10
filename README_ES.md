@@ -446,3 +446,9 @@ Se ven los siguientes videos:
 **Progreso:**
 
 [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 4: Terminado.
+
+## Día 51: Dic 10/2018
+
+**Progreso:**
+
+[Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 5 y 6: Terminado.
