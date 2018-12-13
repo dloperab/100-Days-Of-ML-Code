@@ -452,3 +452,14 @@ Se ven los siguientes videos:
 **Progreso:**
 
 [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 5 y 6: Terminado.
+
+## Día 52: Dic 12/2018
+
+**Progreso:**
+
+* [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 7: Terminado.
+* Se prepara presentación acerca de Azure Cognitive Services.
+
+**Link(s) al trabajo:**
+
+* [Azure Cognitive Services](https://github.com/dloperab/ML-Slides/blob/master/Azure/01_Azure_Cognitive_Services_I_13122018.pdf).
