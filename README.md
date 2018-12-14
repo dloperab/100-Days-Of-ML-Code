@@ -459,3 +459,9 @@ I've watched the next videos:
 **Link(s) to work:**
 
 * [Azure Cognitive Services](https://github.com/dloperab/ML-Slides/blob/master/Azure/01_Azure_Cognitive_Services_I_13122018.pdf).
+
+## Day 53: Dec 14/2018
+
+**Progress:**
+
+[PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 8: Done + Chapter 9: In progress.
