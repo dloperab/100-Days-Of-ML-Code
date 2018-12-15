@@ -465,3 +465,9 @@ I've watched the next videos:
 **Progress:**
 
 [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 8: Done + Chapter 9: In progress.
+
+## Day 54: Dec 15/2018
+
+**Progress:**
+
+[PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 9: Done.
