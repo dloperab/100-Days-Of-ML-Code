@@ -475,3 +475,15 @@ Se ven los siguientes videos:
 **Progreso:**
 
 [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 9: Terminado.
+
+## Día 55: Ene 09/2019
+
+**Progreso:**
+
+Se leen siguientes artículos:
+
+* [Getting Started with Windows Machine Learning](https://blogs.windows.com/buildingapps/2018/11/20/getting-started-with-windows-machine-learning/).
+* [Machine Learning - Accelerate AI Solutions with Automated Machine Learning](https://msdn.microsoft.com/magazine/mt848635).
+* [Machine Learning - ML.NET: The Machine Learning Framework for .NET Developers](https://msdn.microsoft.com/magazine/mt848634).
+* [The 6 most useful Machine Learning projects of the past year (2018)](https://towardsdatascience.com/the-10-most-useful-machine-learning-projects-of-the-past-year-2018-5378bbd4919f).
+* [Deploying Deep Learning Models](https://towardsdatascience.com/deploying-deep-learning-models-e9e4d7dda3ff).
