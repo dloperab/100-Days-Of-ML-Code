@@ -483,3 +483,9 @@ I've read the following articles:
 * [Machine Learning - ML.NET: The Machine Learning Framework for .NET Developers](https://msdn.microsoft.com/magazine/mt848634).
 * [The 6 most useful Machine Learning projects of the past year (2018)](https://towardsdatascience.com/the-10-most-useful-machine-learning-projects-of-the-past-year-2018-5378bbd4919f).
 * [Deploying Deep Learning Models](https://towardsdatascience.com/deploying-deep-learning-models-e9e4d7dda3ff).
+
+## Day 56: Jan 10/2019
+
+**Progress:**
+
+[PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapters 1 to 6 are reviewed again.

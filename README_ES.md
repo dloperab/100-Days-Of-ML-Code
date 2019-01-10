@@ -487,3 +487,9 @@ Se leen siguientes artículos:
 * [Machine Learning - ML.NET: The Machine Learning Framework for .NET Developers](https://msdn.microsoft.com/magazine/mt848634).
 * [The 6 most useful Machine Learning projects of the past year (2018)](https://towardsdatascience.com/the-10-most-useful-machine-learning-projects-of-the-past-year-2018-5378bbd4919f).
 * [Deploying Deep Learning Models](https://towardsdatascience.com/deploying-deep-learning-models-e9e4d7dda3ff).
+
+## Día 56: Ene 10/2019
+
+**Progreso:**
+
+[Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Se repasan nuevamente los capítulos 1 a 6.
