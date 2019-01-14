@@ -493,3 +493,14 @@ Se leen siguientes artículos:
 **Progreso:**
 
 [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Se repasan nuevamente los capítulos 1 a 6.
+
+## Día 57: Ene 14/2019
+
+**Progreso:**
+
+* Se leen siguientes artículos:
+  * [A Non-Technical Reading List for Data Science](https://towardsdatascience.com/a-non-technical-reading-list-for-data-science-d72451429a70).
+  * [A Guide for Building Convolutional Neural Networks](https://towardsdatascience.com/a-guide-for-building-convolutional-neural-networks-e4eefd17f4fd).
+* Se ve el siguiente video:
+  * [Visual Azure Provisioning From a Whiteboard](https://channel9.msdn.com/Shows/XamarinShow/Visual-Azure-Provisioning-From-a-Whiteboard).
+* [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Se repasan nuevamente los capítulos 7 a 9.
