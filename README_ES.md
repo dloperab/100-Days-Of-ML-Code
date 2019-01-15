@@ -504,3 +504,9 @@ Se leen siguientes artículos:
 * Se ve el siguiente video:
   * [Visual Azure Provisioning From a Whiteboard](https://channel9.msdn.com/Shows/XamarinShow/Visual-Azure-Provisioning-From-a-Whiteboard).
 * [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Se repasan nuevamente los capítulos 7 a 9.
+
+## Día 58: Ene 15/2019
+
+**Progreso:**
+
+[Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 10: En progreso.

@@ -500,3 +500,9 @@ I've read the following articles:
 * I've watch the following video:
   * [Visual Azure Provisioning From a Whiteboard](https://channel9.msdn.com/Shows/XamarinShow/Visual-Azure-Provisioning-From-a-Whiteboard).
 * [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapters 7 to 9 are reviewed again.
+
+## Day 58: Jan 15/2019
+
+**Progress:**
+
+[PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 10: In progress.
