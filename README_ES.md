@@ -510,3 +510,9 @@ Se leen siguientes artículos:
 **Progreso:**
 
 [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 10: En progreso.
+
+## Día 59: Ene 16/2019
+
+**Progreso:**
+
+[Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 10: Algoritmo Perceptron para AND, OR y XOR Datasets.

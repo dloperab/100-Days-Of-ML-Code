@@ -506,3 +506,9 @@ I've read the following articles:
 **Progress:**
 
 [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 10: In progress.
+
+## Day 59: Jan 16/2019
+
+**Progress:**
+
+[PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 10: Perceptron Algorithm for AND, OR, and XOR Datasets.
