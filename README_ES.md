@@ -516,3 +516,15 @@ Se leen siguientes artículos:
 **Progreso:**
 
 [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 10: Algoritmo Perceptron para AND, OR y XOR Datasets.
+
+## Día 60: Ene 17/2019
+
+* Se ven los siguientes videos:
+  * [An Introduction to the Intelligent Kiosk](https://channel9.msdn.com/Shows/AI-Show/An-Introduction-to-the-Intelligent-Kiosk).
+  * [What’s New? A Single Key for Cognitive Services](https://channel9.msdn.com/Shows/AI-Show/A-Single-Key-for-Cognitive-Services).
+  * [Using Cognitive Services in Containers](https://channel9.msdn.com/Shows/AI-Show/Using-Cognitive-Services-in-Containers).
+  * [Building a Pet Detector in 30 minutes or less!](https://channel9.msdn.com/Shows/AI-Show/Building-a-Pet-Detector-in-30-minutes-or-less).
+* Se leen los siguientes artículos:
+  * [Getting started with Azure Cognitive Services in containers](https://azure.microsoft.com/en-us/blog/getting-started-with-azure-cognitive-services-in-containers/).
+  * [Bringing AI to the edge](https://azure.microsoft.com/en-us/blog/bringing-ai-to-the-edge/).
+* [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 10: Backpropagation desde cero con Python - Ejemplo #1: XOR.
