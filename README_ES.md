@@ -527,4 +527,12 @@ Se leen siguientes artículos:
 * Se leen los siguientes artículos:
   * [Getting started with Azure Cognitive Services in containers](https://azure.microsoft.com/en-us/blog/getting-started-with-azure-cognitive-services-in-containers/).
   * [Bringing AI to the edge](https://azure.microsoft.com/en-us/blog/bringing-ai-to-the-edge/).
-* [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 10: Backpropagation desde cero con Python - Ejemplo #1: XOR.
+* [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 10: Backpropagation desde cero con Python - XOR.
+
+## Día 61: Ene 18/2019
+
+* Se estudian las matemáticas detrás del algoritmo de Backpropagation siguendo los ejemplos: [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/) y [Backpropagation Step by Step](https://hmkcode.github.io/ai/backpropagation-step-by-step/).
+* [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 10:
+  * Backpropagation con Python - MNIST dataset (Subcojunto).
+  * Multi-layer Networks con Keras - MNIST dataset (Completo).
+  * Multi-layer Networks con Keras - CIFAR-10 dataset.

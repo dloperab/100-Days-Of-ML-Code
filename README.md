@@ -523,4 +523,13 @@ I've read the following articles:
 * I've read the following articles:
   * [Getting started with Azure Cognitive Services in containers](https://azure.microsoft.com/en-us/blog/getting-started-with-azure-cognitive-services-in-containers/).
   * [Bringing AI to the edge](https://azure.microsoft.com/en-us/blog/bringing-ai-to-the-edge/).
-* [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 10: Backpropagation with Python from scratch - Example #1: Bitwise XOR.
+* [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 10: Backpropagation with Python from scratch - Bitwise XOR.
+
+## Day 61: Jan 18/2019
+
+* I've studied the maths behind the Backpropagation algorithm following the examples: [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/) and [Backpropagation Step by Step](https://hmkcode.github.io/ai/backpropagation-step-by-step/).
+* [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 10:
+  * Backpropagation with Python - MNIST Dataset (Subset).
+  * Multi-layer Networks with Keras - MNIST Dataset (Full).
+  * Multi-layer Networks with Keras - CIFAR-10 dataset.
+  
