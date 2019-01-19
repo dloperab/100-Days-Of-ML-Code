@@ -533,7 +533,7 @@ I've read the following articles:
   * Multi-layer Networks with Keras - MNIST Dataset (Full).
   * Multi-layer Networks with Keras - CIFAR-10 dataset.
 
-## Day 61: Jan 19/2019
+## Day 62: Jan 19/2019
 
 * "Multi-layer Networks con Keras - CIFAR-10 dataset" exercise was run Google Colab (CPU).
 * [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 10: Done.
