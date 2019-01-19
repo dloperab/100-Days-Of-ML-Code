@@ -536,3 +536,8 @@ Se leen siguientes artículos:
   * Backpropagation con Python - MNIST dataset (Subcojunto).
   * Multi-layer Networks con Keras - MNIST dataset (Completo).
   * Multi-layer Networks con Keras - CIFAR-10 dataset.
+
+## Día 62: Ene 19/2019
+
+* Se corre ejemplo "Multi-layer Networks con Keras - CIFAR-10 dataset" en Google Colab (CPU).
+* [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 10: Terminado.
