@@ -535,10 +535,15 @@ I've read the following articles:
 
 ## Day 62: Jan 19/2019
 
-* "Multi-layer Networks con Keras - CIFAR-10 dataset" exercise was run Google Colab (CPU).
+* "Multi-layer Networks with Keras - CIFAR-10 dataset" exercise was run on Google Colab (CPU).
 * [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 10: Done.
 
 ## Day 63: Jan 21/2019
 
-* "Multi-layer Networks con Keras - CIFAR-10 dataset" exercise was run Google Colab (GPU).
+* "Multi-layer Networks with Keras - CIFAR-10 dataset" exercise was run on Google Colab (GPU).
 * [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 11: Convolutional Neural Networks - Done.
+
+## Day 64: Jan 22/2019
+
+* "Multi-layer Networks with Keras - CIFAR-10 dataset" exercise was run on Microsoft Azure Notebooks.
+* [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 12: Training Your First CNN - Done.

@@ -546,3 +546,8 @@ Se leen siguientes artículos:
 
 * Se corre ejemplo "Multi-layer Networks con Keras - CIFAR-10 dataset" en Google Colab (GPU).
 * [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 11: Convolutional Neural Networks - Terminado.
+
+## Día 64: Ene 22/2019
+
+* Se corre ejemplo "Multi-layer Networks con Keras - CIFAR-10 dataset" en Microsoft Azure Notebooks.
+* [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 12: Training Your First CNN - Terminado.
