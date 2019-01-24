@@ -551,3 +551,12 @@ Se leen siguientes artículos:
 
 * Se corre ejemplo "Multi-layer Networks con Keras - CIFAR-10 dataset" en Microsoft Azure Notebooks.
 * [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 12: Training Your First CNN - Terminado.
+
+## Día 65-66: Ene 23, 24/2019
+
+* [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 13: Saving and Loading Your Models - Terminado.
+* [Tutorial PythonProgramming.net - Deep Learning with Python, TensorFlow, and Keras](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) Parte 1 y 2: Terminada.
+
+**Link(s) al trabajo:**
+
+* [TensorFlow-IntroDeepLearning](https://github.com/dloperab/TensorFlow/blob/master/IntroDeepLearning/README.md).
