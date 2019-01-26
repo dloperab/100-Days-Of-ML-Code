@@ -551,7 +551,15 @@ I've read the following articles:
 ## Day 65-66: Jan 23, 24/2019
 
 * [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 13: Saving and Loading Your Models - Done.
-* [Tutorial PythonProgramming.net - Deep Learning with Python, TensorFlow, and Keras](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) Part 1 y 2: Terminada.
+* [Tutorial PythonProgramming.net - Deep Learning with Python, TensorFlow, and Keras](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) Parts 1 and 2: Done.
+
+**Link(s) to work:**
+
+* [TensorFlow-IntroDeepLearning](https://github.com/dloperab/TensorFlow/blob/master/IntroDeepLearning/README.md).
+
+## Day 67: Jan 25/2019
+
+* [Tutorial PythonProgramming.net - Deep Learning with Python, TensorFlow, and Keras](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) Parts 3 to 7: Done.
 
 **Link(s) to work:**
 

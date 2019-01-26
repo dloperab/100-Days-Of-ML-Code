@@ -560,3 +560,11 @@ Se leen siguientes artículos:
 **Link(s) al trabajo:**
 
 * [TensorFlow-IntroDeepLearning](https://github.com/dloperab/TensorFlow/blob/master/IntroDeepLearning/README.md).
+
+## Día 67: Ene 25/2019
+
+* [Tutorial PythonProgramming.net - Deep Learning with Python, TensorFlow, and Keras](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) Partes 3 a 7: Terminadas.
+
+**Link(s) al trabajo:**
+
+* [TensorFlow-IntroDeepLearning](https://github.com/dloperab/TensorFlow/blob/master/IntroDeepLearning/README.md).
