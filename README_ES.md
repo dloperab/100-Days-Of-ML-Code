@@ -568,3 +568,7 @@ Se leen siguientes artículos:
 **Link(s) al trabajo:**
 
 * [TensorFlow-IntroDeepLearning](https://github.com/dloperab/TensorFlow/blob/master/IntroDeepLearning/README.md).
+
+## Día 68: Ene 28/2019
+
+* [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 14: LeNet: Recognizing Handwritten Digits + Capítulo 15: MiniVGGNet: Going Deeper with CNNs - Terminados.

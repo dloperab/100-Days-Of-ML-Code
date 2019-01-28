@@ -564,3 +564,7 @@ I've read the following articles:
 **Link(s) to work:**
 
 * [TensorFlow-IntroDeepLearning](https://github.com/dloperab/TensorFlow/blob/master/IntroDeepLearning/README.md).
+
+## Day 68: Jan 28/2019
+
+* [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 14: LeNet: Recognizing Handwritten Digits + Chapter 15: MiniVGGNet: Going Deeper with CNNs - Done.
