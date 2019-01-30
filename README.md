@@ -555,7 +555,7 @@ I've read the following articles:
 
 **Link(s) to work:**
 
-* [TensorFlow-IntroDeepLearning](https://github.com/dloperab/TensorFlow/blob/master/IntroDeepLearning/README.md).
+* [TensorFlow-DeepLearningBasics](https://github.com/dloperab/TensorFlow/blob/master/PythonProgramming.net/DeepLearningBasics/README.md).
 
 ## Day 67: Jan 25/2019
 
@@ -563,8 +563,19 @@ I've read the following articles:
 
 **Link(s) to work:**
 
-* [TensorFlow-IntroDeepLearning](https://github.com/dloperab/TensorFlow/blob/master/IntroDeepLearning/README.md).
+* [TensorFlow-DeepLearningBasics](https://github.com/dloperab/TensorFlow/blob/master/PythonProgramming.net/DeepLearningBasics/README.md).
 
 ## Day 68: Jan 28/2019
 
 * [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 14: LeNet: Recognizing Handwritten Digits + Chapter 15: MiniVGGNet: Going Deeper with CNNs - Done.
+
+## Day 69: Jan 29/2019
+
+* [Tutorial PythonProgramming.net - Deep Learning with Python, TensorFlow, and Keras](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) Parts 8 to 11: Done.
+* Exploring **TensorFlow Object Detection API** with the following recourses:
+  * [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection).
+  * [Real Time Object Detection with TensorFlow Detection Model](https://towardsdatascience.com/real-time-object-detection-with-tensorflow-detection-model-e7fd20421d5d).
+
+**Link(s) to work:**
+
+* [TensorFlow-DeepLearningBasics](https://github.com/dloperab/TensorFlow/blob/master/PythonProgramming.net/DeepLearningBasics/README.md).
