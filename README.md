@@ -579,3 +579,15 @@ I've read the following articles:
 **Link(s) to work:**
 
 * [TensorFlow-DeepLearningBasics](https://github.com/dloperab/TensorFlow/blob/master/PythonProgramming.net/DeepLearningBasics/README.md).
+
+## Day 70-71: Jan 30, 31/2019
+
+* Studying **TensorFlow Object Detection API** with the following resources:
+  * [Real Time Object Detection with TensorFlow Detection Model](https://towardsdatascience.com/real-time-object-detection-with-tensorflow-detection-model-e7fd20421d5d).
+  * [TensorFlow Object Detection API tutorial](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/index.html).
+  * [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection).
+  * [Object Detection Tutorial](https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb).
+
+**Link(s) to work:**
+
+* [TensorFlow-TFObjectDetection](https://github.com/dloperab/TensorFlow/blob/master/TFObjectDetection/README.md).
