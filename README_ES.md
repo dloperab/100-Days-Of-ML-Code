@@ -595,3 +595,15 @@ Se leen siguientes artículos:
 **Link(s) al trabajo:**
 
 * [TensorFlow-TFObjectDetection](https://github.com/dloperab/TensorFlow/blob/master/TFObjectDetection/README.md).
+
+## Día 72: Feb 04/2019
+
+* Se ve el video [A Closer Look at Intelligent Retail](https://channel9.msdn.com/Shows/AI-Show/A-Closer-Look-at-Intelligent-Retail).
+* Estudiando **TensorFlow Object Detection API** con los siguientes recursos:
+  * [Is Google Tensorflow Object Detection API the Easiest Way to Implement Image Recognition?](https://www.kdnuggets.com/2018/03/google-tensorflow-object-detection-api-the-easiest-way-implement-image-recognition.html).
+  * [Detect Objects Using Your Webcam](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/camera.html).
+* Explorando [Tensorflow Object Detection API](https://github.com/ahmetozlu/tensorflow_object_counting_api).
+
+**Link(s) al trabajo:**
+
+* [TensorFlow-TFObjectDetection](https://github.com/dloperab/TensorFlow/blob/master/TFObjectDetection/README.md).
