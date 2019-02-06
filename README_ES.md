@@ -602,8 +602,17 @@ Se leen siguientes artículos:
 * Estudiando **TensorFlow Object Detection API** con los siguientes recursos:
   * [Is Google Tensorflow Object Detection API the Easiest Way to Implement Image Recognition?](https://www.kdnuggets.com/2018/03/google-tensorflow-object-detection-api-the-easiest-way-implement-image-recognition.html).
   * [Detect Objects Using Your Webcam](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/camera.html).
-* Explorando [Tensorflow Object Detection API](https://github.com/ahmetozlu/tensorflow_object_counting_api).
+* Explorando [Tensorflow Object Counting API](https://github.com/ahmetozlu/tensorflow_object_counting_api).
 
 **Link(s) al trabajo:**
 
 * [TensorFlow-TFObjectDetection](https://github.com/dloperab/TensorFlow/blob/master/TFObjectDetection/README.md).
+
+## Día 73: Feb 05/2019
+
+* Estudiando **TensorFlow Object Counting API** con los siguientes recursos:
+  * [Tensorflow Object Counting API](https://github.com/ahmetozlu/tensorflow_object_counting_api).
+
+**Link(s) al trabajo:**
+
+* [TensorFlow-TFObjectCounting](https://github.com/dloperab/TensorFlow/tree/master/TFObjectCounting).
