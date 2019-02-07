@@ -612,3 +612,13 @@ I've read the following articles:
 **Link(s) to work:**
 
 * [TensorFlow-TFObjectCounting](https://github.com/dloperab/TensorFlow/tree/master/TFObjectCounting).
+
+## Day 74-75: Feb 06, 07/2019
+
+* Reviewing Deep Learning concepts: loss functions, learning rate, decay, momentum and architectures with the following resources:
+  * [Understand the Impact of Learning Rate on Model Performance With Deep Learning Neural Networks](https://machinelearningmastery.com/understand-the-dynamics-of-learning-rate-on-deep-learning-neural-networks/).
+  * [Loss and Loss Functions for Training Deep Learning Neural Networks]( https://machinelearningmastery.com/loss-and-loss-functions-for-training-deep-learning-neural-networks/).
+  * [Gradient descent with momentum](https://www.coursera.org/lecture/deep-neural-network/gradient-descent-with-momentum-y0m1f).
+  * [10 Advanced Deep Learning Architectures Data Scientists Should Know!](https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/).
+  * [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html).
+  * [A Beginner's Guide to Object Detection](https://www.datacamp.com/community/tutorials/object-detection-guide).
