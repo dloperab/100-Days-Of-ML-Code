@@ -573,7 +573,7 @@ I've read the following articles:
 
 * [Tutorial PythonProgramming.net - Deep Learning with Python, TensorFlow, and Keras](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) Parts 8 to 11: Done.
 * Exploring **TensorFlow Object Detection API** with the following recourses:
-  * [Tensorflow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection).
+  * [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection).
   * [Real Time Object Detection with TensorFlow Detection Model](https://towardsdatascience.com/real-time-object-detection-with-tensorflow-detection-model-e7fd20421d5d).
 
 **Link(s) to work:**
@@ -622,3 +622,8 @@ I've read the following articles:
   * [10 Advanced Deep Learning Architectures Data Scientists Should Know!](https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/).
   * [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html).
   * [A Beginner's Guide to Object Detection](https://www.datacamp.com/community/tutorials/object-detection-guide).
+
+## Day 76: Feb 08/2019
+
+* I've watched TensorFlow course on YouTube of Jesús Conde. [Course Link](https://www.youtube.com/playlist?list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu).
+* [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 16: MiniVGGNet: Learning Rate Schedulers - Done.

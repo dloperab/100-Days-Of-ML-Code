@@ -626,3 +626,8 @@ Se leen siguientes artículos:
   * [10 Advanced Deep Learning Architectures Data Scientists Should Know!](https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/).
   * [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3)](https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html).
   * [A Beginner's Guide to Object Detection](https://www.datacamp.com/community/tutorials/object-detection-guide).
+
+## Día 76: Feb 08/2019
+
+* Se ve el curso de TensorFlow de Jesús Conde en YouTube. [Link Curso](https://www.youtube.com/playlist?list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu).
+* [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 16: Learning Rate Schedulers - Terminado.
