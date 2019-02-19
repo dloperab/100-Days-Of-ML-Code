@@ -631,3 +631,9 @@ Se leen siguientes artículos:
 
 * Se ve el curso de TensorFlow de Jesús Conde en YouTube. [Link Curso](https://www.youtube.com/playlist?list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu).
 * [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Capítulo 16: Learning Rate Schedulers - Terminado.
+
+## Día 77-82: Feb 11-15, 18/2019
+
+* [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Cap 17: Spotting Underfitting and Overfitting + Cap 18: Checkpointing Models - Terminados.
+* Configurando y probando Azure  Data Science Virtual Machine (DSVM) for Deep Learning.
+* Desarrollé de un Clasificador de Aviones con Azure Custom Vision Service y Xamarin.Forms (iOS/Android).
