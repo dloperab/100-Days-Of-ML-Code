@@ -637,3 +637,8 @@ Se leen siguientes artículos:
 * [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Cap 17: Spotting Underfitting and Overfitting + Cap 18: Checkpointing Models - Terminados.
 * Configurando y probando Azure  Data Science Virtual Machine (DSVM) for Deep Learning.
 * Desarrollé de un Clasificador de Aviones con Azure Custom Vision Service y Xamarin.Forms (iOS/Android).
+
+## Día 83: Feb 19/2019
+
+* [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Cap 19: Visualizing Network Architectures + Cap 20: Out-of-the-box CNNs for Classification - Terminado.
+* [deeplearning.ai - Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/): Curso 1 - Neural Networks and Deep Learning - Semana 1: Terminado.

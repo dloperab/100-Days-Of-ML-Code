@@ -631,5 +631,10 @@ I've read the following articles:
 ## Day 77-82: Feb 11-15, 18/2019
 
 * [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 17: Spotting Underfitting and Overfitting + Chapter 18: Checkpointing Models - Done.
-* Configuring and testing Azure  Data Science Virtual Machine (DSVM) for Deep Learning.
+* Configuring and testing Azure Data Science Virtual Machine (DSVM) for Deep Learning.
 * I developed an Airplanes Classifier using Azure Custom Vision Service and Xamarin.Forms (iOS/Android).
+
+## Day 83: Feb 19/2019
+
+* [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 19: Visualizing Network Architectures + Chapter 20: Out-of-the-box CNNs for Classification - Done.
+* [deeplearning.ai - Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/): Course 1 - Neural Networks and Deep Learning - Week 1: Done.
