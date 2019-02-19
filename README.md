@@ -632,4 +632,4 @@ I've read the following articles:
 
 * [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 17: Spotting Underfitting and Overfitting + Chapter 18: Checkpointing Models - Done.
 * Configuring and testing Azure  Data Science Virtual Machine (DSVM) for Deep Learning.
-* I developed an Airplanes Classifier using azure custom vision service and xamarin.forms (iOS/Android)
+* I developed an Airplanes Classifier using Azure Custom Vision Service and Xamarin.Forms (iOS/Android).
