@@ -628,7 +628,7 @@ I've read the following articles:
 * I've watched TensorFlow course on YouTube of Jesús Conde. [Course Link](https://www.youtube.com/playlist?list=PLEtcGQaT56chOBjdO10AbBwnx1Acuj3Hu).
 * [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 16: MiniVGGNet: Learning Rate Schedulers - Done.
 
-## Day 77-78-79: Feb 11, 12, 13/2019
+## Day 77-82: Feb 11-15, 18/2019
 
 * [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 17: Spotting Underfitting and Overfitting + Chapter 18: Checkpointing Models - Done.
 * Configuring and testing Azure  Data Science Virtual Machine (DSVM) for Deep Learning.
