@@ -637,4 +637,8 @@ I've read the following articles:
 ## Day 83: Feb 19/2019
 
 * [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 19: Visualizing Network Architectures + Chapter 20: Out-of-the-box CNNs for Classification - Done.
-* [deeplearning.ai - Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/): Course 1 - Neural Networks and Deep Learning - Week 1: Done.
+* [deeplearning.ai - DL Specialization](https://www.deeplearning.ai/deep-learning-specialization/): Course 1 - NN and DL - Week 1: Done.
+
+## Day 84: Feb 20/2019
+
+* [deeplearning.ai - DL Specialization](https://www.deeplearning.ai/deep-learning-specialization/): Course 1 - NN and DL - Week 2 - Logistic Regression as a Neural Network: Done.

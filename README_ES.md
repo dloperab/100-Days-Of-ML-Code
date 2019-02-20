@@ -641,4 +641,8 @@ Se leen siguientes artículos:
 ## Día 83: Feb 19/2019
 
 * [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Cap 19: Visualizing Network Architectures + Cap 20: Out-of-the-box CNNs for Classification - Terminado.
-* [deeplearning.ai - Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/): Curso 1 - Neural Networks and Deep Learning - Semana 1: Terminado.
+* [deeplearning.ai - DL Specialization](https://www.deeplearning.ai/deep-learning-specialization/): Curso 1 - NN and DL - Semana 1: Terminado.
+
+## Día 84: Feb 20/2019
+
+* [deeplearning.ai - DL Specialization](https://www.deeplearning.ai/deep-learning-specialization/): Curso 1 - NN and DL - Semana 2 - Logistic Regression as a Neural Network: Terminado.
