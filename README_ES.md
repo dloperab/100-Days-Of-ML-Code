@@ -646,3 +646,8 @@ Se leen siguientes artículos:
 ## Día 84: Feb 20/2019
 
 * [deeplearning.ai - DL Specialization](https://www.deeplearning.ai/deep-learning-specialization/): Curso 1 - NN and DL - Semana 2 - Logistic Regression as a Neural Network: Terminado.
+
+## Día 85-87: Feb 25-27/2019
+
+* [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Cap 21: Case Study: Breaking Captchas + Cap 22: Case Study: Smile Detection - Terminados. Starter Bundle: Terminado.
+* [deeplearning.ai - DL Specialization](https://www.deeplearning.ai/deep-learning-specialization/): Curso 1 - NN and DL - Semana 2: Terminada.
