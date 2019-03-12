@@ -647,3 +647,18 @@ I've read the following articles:
 
 * [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 21: Case Study: Breaking Captchas + Chapter 22: Case Study: Smile Detection - Done. Starter Bundle: Done.
 * [deeplearning.ai - DL Specialization](https://www.deeplearning.ai/deep-learning-specialization/): Course 1 - NN and DL - Week 2: Done.
+
+## Day 88-93: Mar 07-13/2019
+
+* Top 5 takeaways from TensorFlow Dev Summit 2019 video: <https://www.youtube.com/watch?v=YzLnnGiLNRE>.
+* Studying TensorFlow Object Detection API with the following resources:
+  * [TensorFlow Object Detection API tutorial](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html).
+  * [TensorFlow Object Detection API in 5 clicks from Colaboratory](https://medium.com/@nickbortolotti/tensorflow-object-detection-api-in-5-clicks-from-colaboratory-843b19a1edf1).
+  * [AMP Tech - Detección de objetos con tensorflow - Parte 1](https://www.youtube.com/watch?v=SJRP0IRfPj0).
+  * [AMP Tech - Detección de objetos con tensorflow - Parte 2](https://www.youtube.com/watch?v=EKe05rMG-Ww).
+  * [TensorFlow Object Detection API: basics of detection - Part 1](https://becominghuman.ai/tensorflow-object-detection-api-basics-of-detection-7b134d689c75).
+  * [TensorFlow Object Detection API: basics of detection - Part 2](https://becominghuman.ai/tensorflow-object-detection-api-basics-of-detection-2-2-28b348495eec).
+* I watched the following videos from [Channel 9 - AI Show](https://channel9.msdn.com/Shows/AI-Show):
+  * [Gen Studio](https://channel9.msdn.com/Shows/AI-Show/Gen-Studio).
+  * [Clean Water AI](https://channel9.msdn.com/Shows/AI-Show/Clean-Water-AI).
+* I've studied Section 6 (Object Detection with OpenCV and Python) from [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/python-for-computer-vision-with-opencv-and-deep-learning/) course by Udemy.

@@ -651,3 +651,18 @@ Se leen siguientes artículos:
 
 * [Libro PyImageSearch - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Cap 21: Case Study: Breaking Captchas + Cap 22: Case Study: Smile Detection - Terminados. Starter Bundle: Terminado.
 * [deeplearning.ai - DL Specialization](https://www.deeplearning.ai/deep-learning-specialization/): Curso 1 - NN and DL - Semana 2: Terminada.
+
+## Día 88-93: Mar 07-13/2019
+
+* Se ve video con los 5 principales anuncios del TensorFlow Dev Summit 2019: <https://www.youtube.com/watch?v=YzLnnGiLNRE>.
+* Estudiando TensorFlow Object Detection API con los siguientes recursos:
+  * [TensorFlow Object Detection API tutorial](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html).
+  * [TensorFlow Object Detection API in 5 clicks from Colaboratory](https://medium.com/@nickbortolotti/tensorflow-object-detection-api-in-5-clicks-from-colaboratory-843b19a1edf1).
+  * [AMP Tech - Detección de objetos con tensorflow - Parte 1](https://www.youtube.com/watch?v=SJRP0IRfPj0).
+  * [AMP Tech - Detección de objetos con tensorflow - Parte 2](https://www.youtube.com/watch?v=EKe05rMG-Ww).
+  * [TensorFlow Object Detection API: basics of detection - Part 1](https://becominghuman.ai/tensorflow-object-detection-api-basics-of-detection-7b134d689c75).
+  * [TensorFlow Object Detection API: basics of detection - Part 2](https://becominghuman.ai/tensorflow-object-detection-api-basics-of-detection-2-2-28b348495eec).
+* Se ven los siguientes videos de [Channel 9 - AI Show](https://channel9.msdn.com/Shows/AI-Show):
+  * [Gen Studio](https://channel9.msdn.com/Shows/AI-Show/Gen-Studio).
+  * [Clean Water AI](https://channel9.msdn.com/Shows/AI-Show/Clean-Water-AI).
+* Se estudia Sección 6 (Object Detection with OpenCV and Python) del curso [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/python-for-computer-vision-with-opencv-and-deep-learning/) de Udemy.
