@@ -665,7 +665,7 @@ I've read the following articles:
 
 ## Day 94: Mar 13/2019
 
-Still studying TensorFlow Object Detection API. Proof of Conceptos are done with Webcam, Images and Videos. For videos, multiprocessing and threading was implemented. The following resources are used:
+Still studying TensorFlow Object Detection API. Proof of Concepts are done with Webcam, Images and Videos. For videos, multiprocessing and threading was implemented. The following resources are used:
 
 * [Increasing webcam FPS with Python and OpenCV](https://www.pyimagesearch.com/2015/12/21/increasing-webcam-fps-with-python-and-opencv/).
 * [Building a Real-Time Object Recognition App with Tensorflow and OpenCV](https://towardsdatascience.com/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32)
