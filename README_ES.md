@@ -666,3 +666,12 @@ Se leen siguientes artículos:
   * [Gen Studio](https://channel9.msdn.com/Shows/AI-Show/Gen-Studio).
   * [Clean Water AI](https://channel9.msdn.com/Shows/AI-Show/Clean-Water-AI).
 * Se estudia Sección 6 (Object Detection with OpenCV and Python) del curso [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/python-for-computer-vision-with-opencv-and-deep-learning/) de Udemy.
+
+## Día 94: Mar 13/2019
+
+Se continua estudiando TensorFlow Object Detection API. Se hacen pruebas de concepto de detección con Webcam, Imágenes y Videos. Para videos se realiza implementación de multiprocessing y threading. Se usan los siguientes recursos como base:
+
+* [Increasing webcam FPS with Python and OpenCV](https://www.pyimagesearch.com/2015/12/21/increasing-webcam-fps-with-python-and-opencv/).
+* [Building a Real-Time Object Recognition App with Tensorflow and OpenCV](https://towardsdatascience.com/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32)
+* [Real-time and video processing object detection using Tensorflow, OpenCV and Docker](https://towardsdatascience.com/real-time-and-video-processing-object-detection-using-tensorflow-opencv-and-docker-2be1694726e5).
+  

@@ -648,7 +648,7 @@ I've read the following articles:
 * [PyImageSearch book - DL4CV](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/): Chapter 21: Case Study: Breaking Captchas + Chapter 22: Case Study: Smile Detection - Done. Starter Bundle: Done.
 * [deeplearning.ai - DL Specialization](https://www.deeplearning.ai/deep-learning-specialization/): Course 1 - NN and DL - Week 2: Done.
 
-## Day 88-93: Mar 07-13/2019
+## Day 88-93: Mar 07-12/2019
 
 * Top 5 takeaways from TensorFlow Dev Summit 2019 video: <https://www.youtube.com/watch?v=YzLnnGiLNRE>.
 * Studying TensorFlow Object Detection API with the following resources:
@@ -662,3 +662,11 @@ I've read the following articles:
   * [Gen Studio](https://channel9.msdn.com/Shows/AI-Show/Gen-Studio).
   * [Clean Water AI](https://channel9.msdn.com/Shows/AI-Show/Clean-Water-AI).
 * I've studied Section 6 (Object Detection with OpenCV and Python) from [Python for Computer Vision with OpenCV and Deep Learning](https://www.udemy.com/python-for-computer-vision-with-opencv-and-deep-learning/) course by Udemy.
+
+## Day 94: Mar 13/2019
+
+Still studying TensorFlow Object Detection API. Proof of Conceptos are done with Webcam, Images and Videos. For videos, multiprocessing and threading was implemented. The following resources are used:
+
+* [Increasing webcam FPS with Python and OpenCV](https://www.pyimagesearch.com/2015/12/21/increasing-webcam-fps-with-python-and-opencv/).
+* [Building a Real-Time Object Recognition App with Tensorflow and OpenCV](https://towardsdatascience.com/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32)
+* [Real-time and video processing object detection using Tensorflow, OpenCV and Docker](https://towardsdatascience.com/real-time-and-video-processing-object-detection-using-tensorflow-opencv-and-docker-2be1694726e5).
