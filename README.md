@@ -670,3 +670,8 @@ Still studying TensorFlow Object Detection API. Proof of Concepts are done with 
 * [Increasing webcam FPS with Python and OpenCV](https://www.pyimagesearch.com/2015/12/21/increasing-webcam-fps-with-python-and-opencv/).
 * [Building a Real-Time Object Recognition App with Tensorflow and OpenCV](https://towardsdatascience.com/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32)
 * [Real-time and video processing object detection using Tensorflow, OpenCV and Docker](https://towardsdatascience.com/real-time-and-video-processing-object-detection-using-tensorflow-opencv-and-docker-2be1694726e5).
+
+## Day 94-100: Mar 14-20/2019
+
+Keep studying and applying TensorFlow Object Detection API, focusing mainly on performing re-training of models with custom datasets. Also begins to work and learn datasets such as Open Images, COCO and ImageNet for classification, detection and segmentation tasks.
+For now I will continue working and deepening the development of applications with TensorFlow, TensorFlow Object Detection API and TensorFlow Hub.
